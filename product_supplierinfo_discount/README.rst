@@ -1,15 +1,31 @@
 .. image:: https://img.shields.io/badge/licence-AGPL--3-blue.svg
     :alt: License: AGPL-3
 
+==================================
 Discounts in product supplier info
 ==================================
 
-This module allows to put a discount in the supplier info form, and propagate
-it to purchase orders, having two advantages over pricelists:
+This module allows to input a discount in the supplier info form, and propagate
+it to purchase order lines:
 
-* The discount is directly put on purchase orders instead of reducing the
-  unit price.
+* The discount appears explicitly in purchase orders instead of being directly
+  discounted in price.
 * You can set prices and discounts on the same screen.
+
+.. image:: /product_supplierinfo_discount/static/description/product_supplierinfo_form.png
+
+
+* A new field default_supplierinfo_discount is added on res.partner model.
+  This value will be used as the default one, on each supplierinfo of that
+  supplier.
+
+.. image:: /product_supplierinfo_discount/static/description/res_partner_company_form.png
+
+
+Note: this setting is a new 'company' setting, unavailable for related partners,
+as accounting-related Settings.
+
+.. image:: /product_supplierinfo_discount/static/description/res_partner_individual_form.png
 
 Installation
 ============
@@ -34,11 +50,14 @@ the desired discount for that quantity.
 When you make a purchase order for that supplier and that product, discount
 will be put automatically.
 
+.. image:: https://odoo-community.org/website/image/ir.attachment/5784_f2813bd/datas
+   :alt: Try me on Runbot
+   :target: https://runbot.odoo-community.org/runbot/142/10.0
+
 Known issues / Roadmap
 ======================
 
-* The discount is always applied, independently if you have based
-  your pricelist on other value than "Supplier Prices on the product form".
+* ...
 
 Credits
 =======
@@ -47,6 +66,9 @@ Contributors
 ------------
 
 * Pedro M. Baeza <pedro.baeza@serviciosbaeza.com>
+* Jonathan Nemry <jonathan.nemry@acsone.eu>
+* Sylvain LE GAL (https://twitter.com/legalsylvain)
+* Stefan Rijnhart <stefan@opener.amsterdam>
 
 Maintainer
 ----------
