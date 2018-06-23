@@ -1,6 +1,6 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-#	* quick_purchase
+# 	* quick_purchase
 #
 msgid ""
 msgstr ""
@@ -10,6 +10,7 @@ msgstr ""
 "PO-Revision-Date: 2017-06-01 09:09+0000\n"
 "Last-Translator: <>\n"
 "Language-Team: \n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
@@ -21,14 +22,30 @@ msgid "Add product"
 msgstr "Ajouter des articles"
 
 #. module: quick_purchase
+#: field:product.product,purchase_requisition:0
+msgid "Call for Bids"
+msgstr ""
+
+#. module: quick_purchase
+#: help:product.product,purchase_requisition:0
+msgid ""
+"Check this box to generate Call for Bids instead of generating requests for "
+"quotation from procurement."
+msgstr ""
+
+#. module: quick_purchase
 #: view:product.product:quick_purchase.product_search_form_view
 msgid "Filter the product that are in current purchase"
 msgstr "Afficher uniquement les articles de la commande d'achat encours"
 
 #. module: quick_purchase
 #: view:product.product:quick_purchase.product_search_form_view
-msgid "Filter the products that are supplied by the supplier of the current purchase order"
-msgstr "Afficher uniquement les articles du fournisseur de la commande d'achat encours"
+msgid ""
+"Filter the products that are supplied by the supplier of the current "
+"purchase order"
+msgstr ""
+"Afficher uniquement les articles du fournisseur de la commande d'achat "
+"encours"
 
 #. module: quick_purchase
 #: view:product.product:quick_purchase.product_search_form_view
@@ -56,6 +73,12 @@ msgid "Products"
 msgstr "Articles"
 
 #. module: quick_purchase
+#: code:addons/quick_purchase/models/product_product.py:139
+#, fuzzy, python-format
+msgid "Purchase"
+msgstr "Bon de commande"
+
+#. module: quick_purchase
 #: model:ir.model,name:quick_purchase.model_purchase_order
 msgid "Purchase Order"
 msgstr "Bon de commande"
@@ -71,12 +94,20 @@ msgid "Qty to purchase"
 msgstr "Qté à acheter"
 
 #. module: quick_purchase
+#: view:product.product:quick_purchase.product_product_tree_view
+msgid "Return"
+msgstr ""
+
+#. module: quick_purchase
 #: help:product.product,qty_to_purchase:0
-msgid "Set this quantity to create a new purchase line for this product or update the existing one."
-msgstr "Renseigner cette valeur pour créer une nouvelle ligne d'achat ou mettre à jour la ligne dans la commande en cours"
+msgid ""
+"Set this quantity to create a new purchase line for this product or update "
+"the existing one."
+msgstr ""
+"Renseigner cette valeur pour créer une nouvelle ligne d'achat ou mettre à "
+"jour la ligne dans la commande en cours"
 
 #. module: quick_purchase
 #: help:product.product,po_line_ids:0
 msgid "Technical: used to compute quantities to purchase."
 msgstr "Technique: utilisé pour calculer les quantités à acheter."
-
