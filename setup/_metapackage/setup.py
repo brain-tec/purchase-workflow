@@ -8,7 +8,6 @@ setuptools.setup(
     description="Meta package for oca-purchase-workflow Odoo addons",
     version=version,
     install_requires=[
-        'odoo11-addon-product_by_supplier',
         'odoo11-addon-product_supplierinfo_discount',
         'odoo11-addon-purchase_discount',
         'odoo11-addon-purchase_exception',
@@ -18,6 +17,7 @@ setuptools.setup(
         'odoo11-addon-purchase_open_qty',
         'odoo11-addon-purchase_order_approval_block',
         'odoo11-addon-purchase_order_approved',
+        'odoo11-addon-purchase_order_archive',
         'odoo11-addon-purchase_order_line_stock_available',
         'odoo11-addon-stock_landed_cost_company_percentage',
         'odoo11-addon-subcontracted_service',
