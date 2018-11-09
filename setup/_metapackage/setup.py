@@ -9,10 +9,12 @@ setuptools.setup(
     version=version,
     install_requires=[
         'odoo11-addon-product_supplierinfo_discount',
+        'odoo11-addon-purchase_delivery_split_date',
         'odoo11-addon-purchase_discount',
         'odoo11-addon-purchase_exception',
         'odoo11-addon-purchase_landed_cost',
         'odoo11-addon-purchase_line_procurement_group',
+        'odoo11-addon-purchase_location_by_line',
         'odoo11-addon-purchase_minimum_amount',
         'odoo11-addon-purchase_open_qty',
         'odoo11-addon-purchase_order_approval_block',
