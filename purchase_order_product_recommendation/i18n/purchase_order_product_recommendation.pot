@@ -181,12 +181,22 @@ msgid "Recommended products for current purchase order"
 msgstr ""
 
 #. module: purchase_order_product_recommendation
+#: model:ir.model.fields,field_description:purchase_order_product_recommendation.field_purchase_order_recommendation_show_all_partner_products
+msgid "Show all products"
+msgstr ""
+
+#. module: purchase_order_product_recommendation
+#: model:ir.model.fields,help:purchase_order_product_recommendation.field_purchase_order_recommendation_show_all_partner_products
+msgid "Show all products with supplier infos for this supplier"
+msgstr ""
+
+#. module: purchase_order_product_recommendation
 #: model:ir.model.fields,help:purchase_order_product_recommendation.field_purchase_order_recommendation_line_amount
 msgid "Stablish a limit on how many recommendations you want to get.Leave it as 0 to set no limit"
 msgstr ""
 
 #. module: purchase_order_product_recommendation
-#: code:addons/purchase_order_product_recommendation/wizards/purchase_order_recommendation.py:48
+#: code:addons/purchase_order_product_recommendation/wizards/purchase_order_recommendation.py:53
 #, python-format
 msgid "This wizard is only valid for purchases"
 msgstr ""
