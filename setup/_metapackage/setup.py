@@ -10,6 +10,7 @@ setuptools.setup(
     install_requires=[
         'odoo12-addon-procurement_purchase_no_grouping',
         'odoo12-addon-product_form_purchase_link',
+        'odoo12-addon-purchase_commercial_partner',
         'odoo12-addon-purchase_date_planned_manual',
         'odoo12-addon-purchase_delivery_split_date',
         'odoo12-addon-purchase_deposit',
@@ -29,6 +30,7 @@ setuptools.setup(
         'odoo12-addon-purchase_reception_notify',
         'odoo12-addon-purchase_request',
         'odoo12-addon-purchase_request_product_usage',
+        'odoo12-addon-purchase_request_tier_validation',
         'odoo12-addon-purchase_tier_validation',
         'odoo12-addon-purchase_triple_discount',
         'odoo12-addon-subcontracted_service',
