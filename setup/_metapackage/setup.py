@@ -10,6 +10,7 @@ setuptools.setup(
     install_requires=[
         'odoo11-addon-procurement_purchase_no_grouping',
         'odoo11-addon-product_supplierinfo_discount',
+        'odoo11-addon-purchase_allowed_product',
         'odoo11-addon-purchase_blanket_order',
         'odoo11-addon-purchase_date_planned_manual',
         'odoo11-addon-purchase_delivery_split_date',
@@ -32,6 +33,7 @@ setuptools.setup(
         'odoo11-addon-purchase_order_product_recommendation',
         'odoo11-addon-purchase_order_product_recommendation_secondary_unit',
         'odoo11-addon-purchase_order_secondary_unit',
+        'odoo11-addon-purchase_order_type',
         'odoo11-addon-purchase_product_usage',
         'odoo11-addon-purchase_reception_notify',
         'odoo11-addon-purchase_request',
