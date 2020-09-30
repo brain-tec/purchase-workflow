@@ -54,12 +54,12 @@ Credits
 Authors
 ~~~~~~~
 
-* Eficent
+* ForgeFlow
 
 Contributors
 ~~~~~~~~~~~~
 
-* Miquel Raïch <miquel.raich@eficent.com>
+* Miquel Raïch <miquel.raich@forgeflow.com>
 * Andreas Dian Sukarno Putro <andreasdian777@gmail.com>
 * Kitti Upariphutthiphong <kittiu@ecosoft.co.th>
 * Eric Antones <eantones@nuobit.com>
