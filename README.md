@@ -19,6 +19,7 @@ Available addons
 ----------------
 addon | version | summary
 --- | --- | ---
+[product_form_purchase_link](product_form_purchase_link/) | 14.0.1.0.0 | Add an option to display the purchases lines from product
 [purchase_commercial_partner](purchase_commercial_partner/) | 14.0.1.0.0 | Add stored related field 'Commercial Supplier' on POs
 [purchase_delivery_split_date](purchase_delivery_split_date/) | 14.0.1.0.2 | Allows Purchase Order you confirm to generate one Incoming Shipment for each expected date indicated in the Purchase Order Lines
 [purchase_discount](purchase_discount/) | 14.0.1.0.1 | Purchase order lines with discounts
@@ -34,6 +35,7 @@ addon | version | summary
 [purchase_order_uninvoiced_amount](purchase_order_uninvoiced_amount/) | 14.0.1.0.0 | Show uninvoiced amount on purchase order tree.
 [purchase_request](purchase_request/) | 14.0.1.0.2 | Use this module to have notification of requirements of materials and/or external services and keep track of such requirements.
 [purchase_request_tier_validation](purchase_request_tier_validation/) | 14.0.2.0.0 | Extends the functionality of Purchase Requests to support a tier validation process.
+[purchase_requisition_tier_validation](purchase_requisition_tier_validation/) | 14.0.1.0.0 | Extends the functionality of Purchase Agreements to support a tier validation process.
 [purchase_tier_validation](purchase_tier_validation/) | 14.0.2.0.0 | Extends the functionality of Purchase Orders to support a tier validation process.
 [purchase_work_acceptance](purchase_work_acceptance/) | 14.0.1.0.2 | Purchase Work Acceptance
 

@@ -8,6 +8,7 @@ setuptools.setup(
     description="Meta package for oca-purchase-workflow Odoo addons",
     version=version,
     install_requires=[
+        'odoo14-addon-product_form_purchase_link',
         'odoo14-addon-purchase_commercial_partner',
         'odoo14-addon-purchase_delivery_split_date',
         'odoo14-addon-purchase_discount',
@@ -23,6 +24,7 @@ setuptools.setup(
         'odoo14-addon-purchase_order_uninvoiced_amount',
         'odoo14-addon-purchase_request',
         'odoo14-addon-purchase_request_tier_validation',
+        'odoo14-addon-purchase_requisition_tier_validation',
         'odoo14-addon-purchase_tier_validation',
         'odoo14-addon-purchase_work_acceptance',
     ],
