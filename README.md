@@ -20,6 +20,7 @@ Available addons
 addon | version | summary
 --- | --- | ---
 [product_form_purchase_link](product_form_purchase_link/) | 14.0.1.0.0 | Add an option to display the purchases lines from product
+[purchase_cancel_reason](purchase_cancel_reason/) | 14.0.1.0.0 | Purchase Cancel Reason
 [purchase_commercial_partner](purchase_commercial_partner/) | 14.0.1.0.0 | Add stored related field 'Commercial Supplier' on POs
 [purchase_delivery_split_date](purchase_delivery_split_date/) | 14.0.1.0.2 | Allows Purchase Order you confirm to generate one Incoming Shipment for each expected date indicated in the Purchase Order Lines
 [purchase_discount](purchase_discount/) | 14.0.1.0.1 | Purchase order lines with discounts
@@ -42,7 +43,7 @@ addon | version | summary
 [purchase_rfq_number](purchase_rfq_number/) | 14.0.1.0.0 | Different sequence for purchase for quotations
 [purchase_security](purchase_security/) | 14.0.1.0.0 | See only your purchase orders
 [purchase_tier_validation](purchase_tier_validation/) | 14.0.2.0.0 | Extends the functionality of Purchase Orders to support a tier validation process.
-[purchase_work_acceptance](purchase_work_acceptance/) | 14.0.1.0.3 | Purchase Work Acceptance
+[purchase_work_acceptance](purchase_work_acceptance/) | 14.0.1.0.4 | Purchase Work Acceptance
 [purchase_work_acceptance_evaluation](purchase_work_acceptance_evaluation/) | 14.0.1.0.0 | Purchase Work Acceptance Evaluation
 [purchase_work_acceptance_invoice_plan](purchase_work_acceptance_invoice_plan/) | 14.0.1.0.0 | Purchase Work Acceptance Invoice Plan
 
