@@ -133,6 +133,16 @@ msgid "Product Categories"
 msgstr ""
 
 #. module: purchase_order_product_recommendation
+#: model:ir.model.fields,field_description:purchase_order_product_recommendation.field_purchase_order_recommendation_line__product_name
+msgid "Product name"
+msgstr ""
+
+#. module: purchase_order_product_recommendation
+#: model:ir.model.fields,field_description:purchase_order_product_recommendation.field_purchase_order_recommendation_line__product_code
+msgid "Product reference"
+msgstr ""
+
+#. module: purchase_order_product_recommendation
 #: model:ir.model.fields,field_description:purchase_order_product_recommendation.field_purchase_order_recommendation__line_ids
 msgid "Products"
 msgstr ""
