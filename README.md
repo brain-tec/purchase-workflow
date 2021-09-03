@@ -27,7 +27,7 @@ addon | version | maintainers | summary
 [purchase_discount](purchase_discount/) | 14.0.1.0.1 |  | Purchase order lines with discounts
 [purchase_exception](purchase_exception/) | 14.0.1.0.0 |  | Custom exceptions on purchase order
 [purchase_fop_shipping](purchase_fop_shipping/) | 14.0.1.0.0 |  | Purchase Free-Of-Payment shipping
-[purchase_invoice_plan](purchase_invoice_plan/) | 14.0.1.1.0 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Add to purchases order, ability to manage future invoice plan
+[purchase_invoice_plan](purchase_invoice_plan/) | 14.0.1.1.1 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Add to purchases order, ability to manage future invoice plan
 [purchase_isolated_rfq](purchase_isolated_rfq/) | 14.0.1.0.1 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Purchase Isolated RFQ
 [purchase_last_price_info](purchase_last_price_info/) | 14.0.1.0.0 | [![LoisRForgeFlow](https://github.com/LoisRForgeFlow.png?size=30px)](https://github.com/LoisRForgeFlow) | Purchase Product Last Price Info
 [purchase_location_by_line](purchase_location_by_line/) | 14.0.1.0.1 |  | Allows to define a specific destination location on each PO line
@@ -56,7 +56,7 @@ addon | version | maintainers | summary
 [purchase_rfq_number](purchase_rfq_number/) | 14.0.1.0.0 |  | Different sequence for purchase for quotations
 [purchase_security](purchase_security/) | 14.0.1.0.0 | [![joao-p-marques](https://github.com/joao-p-marques.png?size=30px)](https://github.com/joao-p-marques) | See only your purchase orders
 [purchase_tier_validation](purchase_tier_validation/) | 14.0.2.0.0 |  | Extends the functionality of Purchase Orders to support a tier validation process.
-[purchase_work_acceptance](purchase_work_acceptance/) | 14.0.1.0.5 |  | Purchase Work Acceptance
+[purchase_work_acceptance](purchase_work_acceptance/) | 14.0.1.1.0 |  | Purchase Work Acceptance
 [purchase_work_acceptance_evaluation](purchase_work_acceptance_evaluation/) | 14.0.1.0.1 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Purchase Work Acceptance Evaluation
 [purchase_work_acceptance_invoice_plan](purchase_work_acceptance_invoice_plan/) | 14.0.1.0.1 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Purchase Work Acceptance Invoice Plan
 [purchase_work_acceptance_late_fines](purchase_work_acceptance_late_fines/) | 14.0.1.0.0 | [![Saran440](https://github.com/Saran440.png?size=30px)](https://github.com/Saran440) | Purchase Work Acceptance - Late Delivery Fines
