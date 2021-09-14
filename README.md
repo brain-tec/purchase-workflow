@@ -40,7 +40,7 @@ addon | version | maintainers | summary
 [purchase_force_invoiced](purchase_force_invoiced/) | 13.0.1.0.0 |  | Allows to force the billing status of the purchase order to "Invoiced"
 [purchase_invoice_plan](purchase_invoice_plan/) | 13.0.1.0.0 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Add to purchases order, ability to manage future invoice plan
 [purchase_isolated_rfq](purchase_isolated_rfq/) | 13.0.1.1.1 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Purchase Isolated RFQ
-[purchase_landed_cost](purchase_landed_cost/) | 13.0.1.0.1 |  | Purchase cost distribution
+[purchase_landed_cost](purchase_landed_cost/) | 13.0.1.1.0 |  | Purchase cost distribution
 [purchase_last_price_info](purchase_last_price_info/) | 13.0.1.0.0 | [![LoisRForgeFlow](https://github.com/LoisRForgeFlow.png?size=30px)](https://github.com/LoisRForgeFlow) | Purchase Product Last Price Info
 [purchase_line_procurement_group](purchase_line_procurement_group/) | 13.0.1.0.1 |  | Group purchase order line according to procurement group
 [purchase_location_by_line](purchase_location_by_line/) | 13.0.1.0.0 |  | Allows to define a specific destination location on each PO line
@@ -60,10 +60,10 @@ addon | version | maintainers | summary
 [purchase_order_product_recommendation_xlsx](purchase_order_product_recommendation_xlsx/) | 13.0.1.0.0 |  | Add a way to print recommended products for supplier
 [purchase_order_qty_change_no_recompute](purchase_order_qty_change_no_recompute/) | 13.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Prevent recompute if only quantity has changed in purchase order line
 [purchase_order_secondary_unit](purchase_order_secondary_unit/) | 13.0.1.1.1 |  | Purchase product in a secondary unit
-[purchase_order_type](purchase_order_type/) | 13.0.1.0.0 |  | Purchase Order Type
+[purchase_order_type](purchase_order_type/) | 13.0.1.0.1 |  | Purchase Order Type
 [purchase_order_uninvoiced_amount](purchase_order_uninvoiced_amount/) | 13.0.2.1.2 |  | Purchase Order Univoiced Amount
 [purchase_product_usage](purchase_product_usage/) | 13.0.1.1.1 |  | Purchase Product Usage
-[purchase_propagate_qty](purchase_propagate_qty/) | 13.0.1.0.0 |  | Quantity decrease on purchase line are propagated to the corresponding stock.move
+[purchase_propagate_qty](purchase_propagate_qty/) | 13.0.1.1.0 |  | Quantity decrease on purchase line are propagated to the corresponding stock.move
 [purchase_reception_notify](purchase_reception_notify/) | 13.0.1.0.0 |  | Purchase Reception Notify
 [purchase_reception_status](purchase_reception_status/) | 13.0.1.0.0 | [![alexis-via](https://github.com/alexis-via.png?size=30px)](https://github.com/alexis-via) | Add reception status on purchase orders
 [purchase_request](purchase_request/) | 13.0.4.1.0 |  | Use this module to have notification of requirements of materials and/or external services and keep track of such requirements.
