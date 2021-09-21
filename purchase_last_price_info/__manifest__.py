@@ -2,18 +2,17 @@
 
 {
     "name": "Purchase Product Last Price Info",
-    "version": "14.0.1.0.0",
+    "version": "14.0.2.0.0",
     "category": "Purchase Management",
     "license": "AGPL-3",
     "author": "OdooMRP team, "
     "AvanzOSC, "
     "Tecnativa - Pedro M. Baeza, "
     "Odoo Community Association (OCA)",
-    "development_status": "Beta",
+    "development_status": "Production/Stable",
     "maintainers": ["LoisRForgeFlow"],
     "website": "https://github.com/OCA/purchase-workflow",
     "depends": ["purchase"],
     "data": ["views/product_views.xml"],
     "installable": True,
-    "post_init_hook": "set_last_price_info",
 }
