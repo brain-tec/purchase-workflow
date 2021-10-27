@@ -28,6 +28,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [procurement_purchase_no_grouping](procurement_purchase_no_grouping/) | 13.0.3.0.0 |  | Procurement Purchase No Grouping
+[procurement_purchase_sale_no_grouping](procurement_purchase_sale_no_grouping/) | 13.0.1.0.0 |  | Procurement Purchase Service No Grouping
 [product_form_purchase_link](product_form_purchase_link/) | 13.0.1.0.0 | [![rousseldenis](https://github.com/rousseldenis.png?size=30px)](https://github.com/rousseldenis) | Add an option to display the purchases lines from product
 [product_supplierinfo_qty_multiplier](product_supplierinfo_qty_multiplier/) | 13.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Product supplierinfo qty multiplier
 [purchase_all_shipments](purchase_all_shipments/) | 13.0.1.0.0 |  | Purchase All Shipments
@@ -66,7 +67,7 @@ addon | version | maintainers | summary
 [purchase_order_uninvoiced_amount](purchase_order_uninvoiced_amount/) | 13.0.2.1.2 |  | Purchase Order Univoiced Amount
 [purchase_product_usage](purchase_product_usage/) | 13.0.1.1.1 |  | Purchase Product Usage
 [purchase_propagate_qty](purchase_propagate_qty/) | 13.0.1.1.0 |  | Quantity decrease on purchase line are propagated to the corresponding stock.move
-[purchase_reception_notify](purchase_reception_notify/) | 13.0.1.0.0 |  | Purchase Reception Notify
+[purchase_reception_notify](purchase_reception_notify/) | 13.0.1.0.1 |  | Purchase Reception Notify
 [purchase_reception_status](purchase_reception_status/) | 13.0.1.0.0 | [![alexis-via](https://github.com/alexis-via.png?size=30px)](https://github.com/alexis-via) | Add reception status on purchase orders
 [purchase_request](purchase_request/) | 13.0.4.2.0 |  | Use this module to have notification of requirements of materials and/or external services and keep track of such requirements.
 [purchase_request_department](purchase_request_department/) | 13.0.1.0.0 |  | Purchase Request Department
