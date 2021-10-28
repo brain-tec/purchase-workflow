@@ -53,6 +53,7 @@ addon | version | maintainers | summary
 [purchase_order_approved](purchase_order_approved/) | 13.0.1.1.0 |  | Add a new state 'Approved' in purchase orders.
 [purchase_order_archive](purchase_order_archive/) | 13.0.1.0.0 |  | Archive Purchase Orders
 [purchase_order_line_deep_sort](purchase_order_line_deep_sort/) | 13.0.1.0.0 |  | Purchase Order Line Sort
+[purchase_order_line_menu](purchase_order_line_menu/) | 13.0.1.0.0 |  | Adds Purchase Order Lines Menu
 [purchase_order_line_packaging_qty](purchase_order_line_packaging_qty/) | 13.0.1.0.2 |  | Define quantities according to product packaging on purchase order lines
 [purchase_order_line_price_history](purchase_order_line_price_history/) | 13.0.1.0.0 |  | Purchase order line price history
 [purchase_order_line_price_history_discount](purchase_order_line_price_history_discount/) | 13.0.1.0.0 |  | Purchase order line price history discount
@@ -77,7 +78,7 @@ addon | version | maintainers | summary
 [purchase_security](purchase_security/) | 13.0.1.0.0 | [![joao-p-marques](https://github.com/joao-p-marques.png?size=30px)](https://github.com/joao-p-marques) | See only your purchase orders
 [purchase_stock_picking_show_currency_rate](purchase_stock_picking_show_currency_rate/) | 13.0.1.0.1 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Show currency rate in purchase stock picking.
 [purchase_stock_price_unit_sync](purchase_stock_price_unit_sync/) | 13.0.1.0.1 |  | Update cost price in stock moves already done
-[purchase_stock_secondary_unit](purchase_stock_secondary_unit/) | 13.0.1.0.0 |  | Get product quantities in a secondary unit
+[purchase_stock_secondary_unit](purchase_stock_secondary_unit/) | 13.0.1.0.1 |  | Get product quantities in a secondary unit
 [purchase_substate](purchase_substate/) | 13.0.1.0.0 |  | Purchase Sub State
 [purchase_tier_validation](purchase_tier_validation/) | 13.0.1.0.0 |  | Extends the functionality of Purchase Orders to support a tier validation process.
 [purchase_tier_validation_forward](purchase_tier_validation_forward/) | 13.0.1.0.0 |  | Purchase Tier Validation - Forward Option
