@@ -10,6 +10,7 @@ setuptools.setup(
     install_requires=[
         'odoo14-addon-procurement_batch_generator',
         'odoo14-addon-product_form_purchase_link',
+        'odoo14-addon-purchase_advance_payment',
         'odoo14-addon-purchase_cancel_reason',
         'odoo14-addon-purchase_commercial_partner',
         'odoo14-addon-purchase_delivery_split_date',
@@ -41,6 +42,7 @@ setuptools.setup(
         'odoo14-addon-purchase_quick',
         'odoo14-addon-purchase_reception_notify',
         'odoo14-addon-purchase_reception_status',
+        'odoo14-addon-purchase_report_menu_move',
         'odoo14-addon-purchase_request',
         'odoo14-addon-purchase_request_cancel_confirm',
         'odoo14-addon-purchase_request_department',
