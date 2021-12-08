@@ -66,6 +66,7 @@ addon | version | maintainers | summary
 [purchase_order_supplierinfo_update](purchase_order_supplierinfo_update/) | 13.0.1.0.1 | [![ernestotejeda](https://github.com/ernestotejeda.png?size=30px)](https://github.com/ernestotejeda) | Update product supplierinfo with the last purchase price
 [purchase_order_type](purchase_order_type/) | 13.0.1.0.1 |  | Purchase Order Type
 [purchase_order_uninvoiced_amount](purchase_order_uninvoiced_amount/) | 13.0.2.1.2 |  | Purchase Order Univoiced Amount
+[purchase_partner_selectable_option](purchase_partner_selectable_option/) | 13.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Purchase Partner Selectable Option
 [purchase_product_usage](purchase_product_usage/) | 13.0.1.1.1 |  | Purchase Product Usage
 [purchase_propagate_qty](purchase_propagate_qty/) | 13.0.1.1.1 |  | Quantity decrease on purchase line are propagated to the corresponding stock.move
 [purchase_reception_notify](purchase_reception_notify/) | 13.0.1.0.2 |  | Purchase Reception Notify
@@ -76,7 +77,7 @@ addon | version | maintainers | summary
 [purchase_request_order_approved](purchase_request_order_approved/) | 13.0.1.0.0 |  | Purchase Request Order Approved
 [purchase_request_tier_validation](purchase_request_tier_validation/) | 13.0.1.1.0 |  | Extends the functionality of Purchase Requests to support a tier validation process.
 [purchase_requisition_tier_validation](purchase_requisition_tier_validation/) | 13.0.1.0.0 |  | Extends the functionality of Purchase Agreements to support a tier validation process.
-[purchase_security](purchase_security/) | 13.0.1.0.0 | [![joao-p-marques](https://github.com/joao-p-marques.png?size=30px)](https://github.com/joao-p-marques) | See only your purchase orders
+[purchase_security](purchase_security/) | 13.0.1.1.0 | [![joao-p-marques](https://github.com/joao-p-marques.png?size=30px)](https://github.com/joao-p-marques) | See only your purchase orders
 [purchase_stock_picking_show_currency_rate](purchase_stock_picking_show_currency_rate/) | 13.0.1.0.1 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Show currency rate in purchase stock picking.
 [purchase_stock_price_unit_sync](purchase_stock_price_unit_sync/) | 13.0.1.0.1 |  | Update cost price in stock moves already done
 [purchase_stock_secondary_unit](purchase_stock_secondary_unit/) | 13.0.1.0.1 |  | Get product quantities in a secondary unit
