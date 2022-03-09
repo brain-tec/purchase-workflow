@@ -3,7 +3,7 @@
 
 {
     "name": "Purchase Work Acceptance Evaluation",
-    "version": "14.0.1.0.1",
+    "version": "14.0.2.0.0",
     "category": "Purchase Management",
     "author": "Ecosoft, Odoo Community Association (OCA)",
     "license": "AGPL-3",
@@ -15,6 +15,7 @@
         "views/res_config_settings_views.xml",
         "views/work_acceptance_evaluation_views.xml",
         "views/work_acceptance_views.xml",
+        "report/work_acceptance_evaluation_report.xml",
     ],
     "demo": ["demo/evaluation_data.xml"],
     "maintainers": ["kittiu"],
