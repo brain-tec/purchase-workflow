@@ -22,6 +22,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [product_form_purchase_link](product_form_purchase_link/) | 15.0.1.0.0 | [![rousseldenis](https://github.com/rousseldenis.png?size=30px)](https://github.com/rousseldenis) | Add an option to display the purchases lines from product
+[purchase_default_terms_conditions](purchase_default_terms_conditions/) | 15.0.1.0.0 |  | This module allows purchase default terms & conditions
 [purchase_discount](purchase_discount/) | 15.0.1.0.2 |  | Purchase order lines with discounts
 [purchase_order_line_menu](purchase_order_line_menu/) | 15.0.1.0.0 |  | Adds Purchase Order Lines Menu
 [purchase_receipt_expectation](purchase_receipt_expectation/) | 15.0.1.0.0 |  | Purchase Receipt Expectation
@@ -29,6 +30,7 @@ addon | version | maintainers | summary
 [purchase_receipt_expectation_manual_split](purchase_receipt_expectation_manual_split/) | 15.0.1.0.0 |  | Purchase Receipt Expectation - Manual w/ Split
 [purchase_reception_notify](purchase_reception_notify/) | 15.0.1.0.0 |  | Purchase Reception Notify
 [purchase_request](purchase_request/) | 15.0.1.0.1 |  | Use this module to have notification of requirements of materials and/or external services and keep track of such requirements.
+[purchase_request_tier_validation](purchase_request_tier_validation/) | 15.0.1.0.0 |  | Extends the functionality of Purchase Requests to support a tier validation process.
 
 [//]: # (end addons)
 
