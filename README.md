@@ -45,7 +45,7 @@ addon | version | maintainers | summary
 [purchase_manual_currency](purchase_manual_currency/) | 14.0.1.0.0 |  | Allows to manual currency of Purchase
 [purchase_manual_delivery](purchase_manual_delivery/) | 14.0.1.0.0 |  | Prevents pickings to be auto generated upon Purchase Order confirmation and adds the ability to manually generate them as the supplier confirms the different purchase order lines.
 [purchase_minimum_amount](purchase_minimum_amount/) | 14.0.1.0.1 |  | Purchase Minimum Amount
-[purchase_open_qty](purchase_open_qty/) | 14.0.1.0.1 |  | Allows to identify the purchase orders that have quantities pending to invoice or to receive.
+[purchase_open_qty](purchase_open_qty/) | 14.0.1.1.0 |  | Allows to identify the purchase orders that have quantities pending to invoice or to receive.
 [purchase_order_approval_block](purchase_order_approval_block/) | 14.0.1.0.2 |  | Purchase Order Approval Block
 [purchase_order_approved](purchase_order_approved/) | 14.0.1.1.0 |  | Add a new state 'Approved' in purchase orders.
 [purchase_order_archive](purchase_order_archive/) | 14.0.1.0.0 |  | Archive Purchase Orders
@@ -82,6 +82,7 @@ addon | version | maintainers | summary
 [purchase_requisition_tier_validation](purchase_requisition_tier_validation/) | 14.0.1.0.0 |  | Extends the functionality of Purchase Agreements to support a tier validation process.
 [purchase_rfq_number](purchase_rfq_number/) | 14.0.1.0.0 |  | Different sequence for purchase for quotations
 [purchase_security](purchase_security/) | 14.0.1.0.0 | [![joao-p-marques](https://github.com/joao-p-marques.png?size=30px)](https://github.com/joao-p-marques) | See only your purchase orders
+[purchase_stock_secondary_unit](purchase_stock_secondary_unit/) | 14.0.1.0.0 |  | Get product quantities in a secondary unit
 [purchase_tag](purchase_tag/) | 14.0.1.0.0 |  | Allows to add multiple tags to purchase orders
 [purchase_tier_validation](purchase_tier_validation/) | 14.0.2.0.1 |  | Extends the functionality of Purchase Orders to support a tier validation process.
 [purchase_triple_discount](purchase_triple_discount/) | 14.0.1.0.1 |  | Manage triple discount on purchase order lines
