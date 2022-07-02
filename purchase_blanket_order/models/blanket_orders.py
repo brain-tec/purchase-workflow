@@ -11,6 +11,7 @@ class BlanketOrder(models.Model):
     _name = "purchase.blanket.order"
     _inherit = ["mail.thread", "mail.activity.mixin"]
     _description = "Blanket Order"
+    _order = "date_start desc, id desc"
 
     @api.model
     def _default_currency(self):
@@ -43,6 +44,7 @@ class BlanketOrder(models.Model):
         tracking=True,
         states={"draft": [("readonly", False)]},
     )
+    partner_ref = fields.Char(string="Vendor Reference", copy=False)
     line_ids = fields.One2many(
         "purchase.blanket.order.line",
         "order_id",
@@ -273,11 +275,15 @@ class BlanketOrder(models.Model):
     def action_confirm(self):
         self._validate()
         for order in self:
-            sequence_obj = self.env["ir.sequence"]
-            if order.company_id:
-                sequence_obj = sequence_obj.with_company(order.company_id)
-            name = sequence_obj.next_by_code("purchase.blanket.order")
-            order.write({"confirmed": True, "name": name})
+            vals = {"confirmed": True}
+            # Set name by sequence only if is necessary
+            if order.name == _("Draft"):
+                sequence_obj = self.env["ir.sequence"]
+                if order.company_id:
+                    sequence_obj = sequence_obj.with_company(order.company_id)
+                name = sequence_obj.next_by_code("purchase.blanket.order") or _("Draft")
+                vals.update({"name": name})
+            order.write(vals)
         return True
 
     def action_cancel(self):
