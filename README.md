@@ -38,7 +38,7 @@ addon | version | maintainers | summary
 [purchase_discount](purchase_discount/) | 14.0.1.1.1 |  | Purchase order lines with discounts
 [purchase_exception](purchase_exception/) | 14.0.1.0.0 |  | Custom exceptions on purchase order
 [purchase_fop_shipping](purchase_fop_shipping/) | 14.0.1.1.0 |  | Purchase Free-Of-Payment shipping
-[purchase_force_invoiced](purchase_force_invoiced/) | 14.0.1.0.0 |  | Allows to force the billing status of the purchase order to "Invoiced"
+[purchase_force_invoiced](purchase_force_invoiced/) | 14.0.1.0.1 |  | Allows to force the billing status of the purchase order to "Invoiced"
 [purchase_invoice_plan](purchase_invoice_plan/) | 14.0.1.3.1 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Add to purchases order, ability to manage future invoice plan
 [purchase_isolated_rfq](purchase_isolated_rfq/) | 14.0.1.0.1 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Purchase Isolated RFQ
 [purchase_last_price_info](purchase_last_price_info/) | 14.0.2.0.1 | [![LoisRForgeFlow](https://github.com/LoisRForgeFlow.png?size=30px)](https://github.com/LoisRForgeFlow) | Purchase Product Last Price Info
@@ -81,7 +81,7 @@ addon | version | maintainers | summary
 [purchase_request_to_requisition](purchase_request_to_requisition/) | 14.0.1.0.0 |  | Purchase Request to Purchase Agreement
 [purchase_request_type](purchase_request_type/) | 14.0.1.0.1 |  | Purchase Request Type
 [purchase_requisition_tier_validation](purchase_requisition_tier_validation/) | 14.0.1.0.0 |  | Extends the functionality of Purchase Agreements to support a tier validation process.
-[purchase_rfq_number](purchase_rfq_number/) | 14.0.1.0.0 |  | Different sequence for purchase for quotations
+[purchase_rfq_number](purchase_rfq_number/) | 14.0.1.1.0 |  | Different sequence for purchase for quotations
 [purchase_security](purchase_security/) | 14.0.1.0.0 | [![joao-p-marques](https://github.com/joao-p-marques.png?size=30px)](https://github.com/joao-p-marques) | See only your purchase orders
 [purchase_stock_secondary_unit](purchase_stock_secondary_unit/) | 14.0.1.0.0 |  | Get product quantities in a secondary unit
 [purchase_tag](purchase_tag/) | 14.0.1.0.0 |  | Allows to add multiple tags to purchase orders
