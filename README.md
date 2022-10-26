@@ -31,6 +31,7 @@ addon | version | maintainers | summary
 [purchase_deposit](purchase_deposit/) | 15.0.1.0.0 |  | Option to create deposit from purchase order
 [purchase_discount](purchase_discount/) | 15.0.1.0.2 |  | Purchase order lines with discounts
 [purchase_exception](purchase_exception/) | 15.0.1.0.0 |  | Custom exceptions on purchase order
+[purchase_force_invoiced](purchase_force_invoiced/) | 15.0.1.0.0 |  | Allows to force the billing status of the purchase order to "Invoiced"
 [purchase_location_by_line](purchase_location_by_line/) | 15.0.1.0.0 |  | Allows to define a specific destination location on each PO line
 [purchase_open_qty](purchase_open_qty/) | 15.0.1.0.0 |  | Allows to identify the purchase orders that have quantities pending to invoice or to receive.
 [purchase_order_line_menu](purchase_order_line_menu/) | 15.0.1.0.0 |  | Adds Purchase Order Lines Menu
@@ -38,6 +39,7 @@ addon | version | maintainers | summary
 [purchase_order_no_zero_price](purchase_order_no_zero_price/) | 15.0.1.0.0 |  | Prevent zero price lines on Purchase Orders
 [purchase_order_product_recommendation](purchase_order_product_recommendation/) | 15.0.1.0.0 |  | Recommend products to buy to supplier based on history
 [purchase_order_qty_change_no_recompute](purchase_order_qty_change_no_recompute/) | 15.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Prevent recompute if only quantity has changed in purchase order line
+[purchase_order_supplierinfo_update](purchase_order_supplierinfo_update/) | 15.0.1.0.0 | [![ernestotejeda](https://github.com/ernestotejeda.png?size=30px)](https://github.com/ernestotejeda) | Update product supplierinfo with the last purchase price
 [purchase_order_type](purchase_order_type/) | 15.0.1.0.0 |  | Purchase Order Type
 [purchase_partner_incoterm](purchase_partner_incoterm/) | 15.0.3.0.0 | [![TDu](https://github.com/TDu.png?size=30px)](https://github.com/TDu) [![bealdav](https://github.com/bealdav.png?size=30px)](https://github.com/bealdav) | Add a an incoterm field for supplier and use it on purchase order
 [purchase_partner_selectable_option](purchase_partner_selectable_option/) | 15.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Purchase Partner Selectable Option
