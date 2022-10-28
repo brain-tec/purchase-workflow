@@ -51,12 +51,14 @@ addon | version | maintainers | summary
 [purchase_order_approval_block](purchase_order_approval_block/) | 14.0.1.0.3 |  | Purchase Order Approval Block
 [purchase_order_approved](purchase_order_approved/) | 14.0.1.2.0 |  | Add a new state 'Approved' in purchase orders.
 [purchase_order_archive](purchase_order_archive/) | 14.0.1.0.0 |  | Archive Purchase Orders
+[purchase_order_general_discount](purchase_order_general_discount/) | 14.0.1.0.0 |  | General discount per purchase order
 [purchase_order_line_deep_sort](purchase_order_line_deep_sort/) | 14.0.1.0.0 |  | Purchase Order Line Sort
 [purchase_order_line_description_picking](purchase_order_line_description_picking/) | 14.0.1.0.0 |  | Purchase Order Line Name To Picking
 [purchase_order_line_invoicing](purchase_order_line_invoicing/) | 14.0.1.0.0 |  | Allows to invoice lines of multiple purchase orders
 [purchase_order_line_menu](purchase_order_line_menu/) | 14.0.1.0.0 |  | Adds Purchase Order Lines Menu
 [purchase_order_line_packaging_qty](purchase_order_line_packaging_qty/) | 14.0.1.0.1 |  | Define quantities according to product packaging on purchase order lines
 [purchase_order_line_price_history](purchase_order_line_price_history/) | 14.0.1.0.0 |  | Purchase order line price history
+[purchase_order_line_stock_available](purchase_order_line_stock_available/) | 14.0.1.0.0 |  | Purchase order line stock available
 [purchase_order_price_recalculation](purchase_order_price_recalculation/) | 14.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Price recalculation in purchases orders
 [purchase_order_product_attachment_mgmt](purchase_order_product_attachment_mgmt/) | 14.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Purchase Order Product Attachment Mgmt
 [purchase_order_qty_change_no_recompute](purchase_order_qty_change_no_recompute/) | 14.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Prevent recompute if only quantity has changed in purchase order line
@@ -74,7 +76,7 @@ addon | version | maintainers | summary
 [purchase_reception_status](purchase_reception_status/) | 14.0.1.0.0 | [![alexis-via](https://github.com/alexis-via.png?size=30px)](https://github.com/alexis-via) | Add reception status on purchase orders
 [purchase_report_menu_move](purchase_report_menu_move/) | 14.0.1.0.0 | [![newtratip](https://github.com/newtratip.png?size=30px)](https://github.com/newtratip) | Purchase Report Menu Move
 [purchase_representative](purchase_representative/) | 14.0.1.0.0 |  | Purchase Representatives will be the point of contact for RFQ's and PO's
-[purchase_request](purchase_request/) | 14.0.1.5.0 |  | Use this module to have notification of requirements of materials and/or external services and keep track of such requirements.
+[purchase_request](purchase_request/) | 14.0.1.5.1 |  | Use this module to have notification of requirements of materials and/or external services and keep track of such requirements.
 [purchase_request_cancel_confirm](purchase_request_cancel_confirm/) | 14.0.1.0.0 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Purchase Request Cancel Confirm
 [purchase_request_department](purchase_request_department/) | 14.0.1.0.0 |  | Purchase Request Department
 [purchase_request_exception](purchase_request_exception/) | 14.0.1.0.0 |  | Custom exceptions on purchase request
