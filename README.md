@@ -24,7 +24,7 @@ addon | version | maintainers | summary
 [partner_supplierinfo_smartbutton](partner_supplierinfo_smartbutton/) | 14.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Access supplied products from the vendor
 [procurement_batch_generator](procurement_batch_generator/) | 14.0.1.0.0 | [![alexis-via](https://github.com/alexis-via.png?size=30px)](https://github.com/alexis-via) | Wizard to replenish from product tree view
 [procurement_purchase_no_grouping](procurement_purchase_no_grouping/) | 14.0.1.0.1 |  | Procurement Purchase No Grouping
-[product_form_purchase_link](product_form_purchase_link/) | 14.0.2.0.0 | [![rousseldenis](https://github.com/rousseldenis.png?size=30px)](https://github.com/rousseldenis) | Add an option to display the purchases lines from product
+[product_form_purchase_link](product_form_purchase_link/) | 14.0.2.1.0 | [![rousseldenis](https://github.com/rousseldenis.png?size=30px)](https://github.com/rousseldenis) | Add an option to display the purchases lines from product
 [product_supplier_code_purchase](product_supplier_code_purchase/) | 14.0.1.0.0 |  | This module adds to the purchase order line the supplier code defined in the product.
 [purchase_advance_payment](purchase_advance_payment/) | 14.0.1.0.1 |  | Allow to add advance payments on purchase orders
 [purchase_allowed_product](purchase_allowed_product/) | 14.0.1.0.0 |  | This module allows to select only products that can be supplied by the vendor
@@ -47,7 +47,7 @@ addon | version | maintainers | summary
 [purchase_manual_currency](purchase_manual_currency/) | 14.0.1.0.0 |  | Allows to manual currency of Purchase
 [purchase_manual_delivery](purchase_manual_delivery/) | 14.0.1.0.1 |  | Prevents pickings to be auto generated upon Purchase Order confirmation and adds the ability to manually generate them as the supplier confirms the different purchase order lines.
 [purchase_minimum_amount](purchase_minimum_amount/) | 14.0.1.0.2 |  | Purchase Minimum Amount
-[purchase_open_qty](purchase_open_qty/) | 14.0.1.1.0 |  | Allows to identify the purchase orders that have quantities pending to invoice or to receive.
+[purchase_open_qty](purchase_open_qty/) | 14.0.1.1.1 |  | Allows to identify the purchase orders that have quantities pending to invoice or to receive.
 [purchase_order_approval_block](purchase_order_approval_block/) | 14.0.1.0.3 |  | Purchase Order Approval Block
 [purchase_order_approved](purchase_order_approved/) | 14.0.1.2.1 |  | Add a new state 'Approved' in purchase orders.
 [purchase_order_archive](purchase_order_archive/) | 14.0.1.0.0 |  | Archive Purchase Orders
