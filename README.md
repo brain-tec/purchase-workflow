@@ -32,7 +32,7 @@ addon | version | maintainers | summary
 [purchase_discount](purchase_discount/) | 15.0.1.0.2 |  | Purchase order lines with discounts
 [purchase_exception](purchase_exception/) | 15.0.1.0.0 |  | Custom exceptions on purchase order
 [purchase_fop_shipping](purchase_fop_shipping/) | 15.0.1.0.0 |  | Purchase Free-Of-Payment shipping
-[purchase_force_invoiced](purchase_force_invoiced/) | 15.0.1.0.0 |  | Allows to force the billing status of the purchase order to "Invoiced"
+[purchase_force_invoiced](purchase_force_invoiced/) | 15.0.1.0.1 |  | Allows to force the billing status of the purchase order to "Invoiced"
 [purchase_location_by_line](purchase_location_by_line/) | 15.0.1.0.0 |  | Allows to define a specific destination location on each PO line
 [purchase_open_qty](purchase_open_qty/) | 15.0.1.0.1 |  | Allows to identify the purchase orders that have quantities pending to invoice or to receive.
 [purchase_order_approved](purchase_order_approved/) | 15.0.1.0.0 |  | Add a new state 'Approved' in purchase orders.
@@ -59,6 +59,7 @@ addon | version | maintainers | summary
 [purchase_requisition_tier_validation](purchase_requisition_tier_validation/) | 15.0.1.0.0 |  | Extends the functionality of Purchase Agreements to support a tier validation process.
 [purchase_tier_validation](purchase_tier_validation/) | 15.0.1.0.0 |  | Extends the functionality of Purchase Orders to support a tier validation process.
 [purchase_triple_discount](purchase_triple_discount/) | 15.0.1.0.0 |  | Manage triple discount on purchase order lines
+[purchase_v12_control_menu](purchase_v12_control_menu/) | 15.0.1.0.0 |  | Purchase Control Menu from v12
 
 [//]: # (end addons)
 
