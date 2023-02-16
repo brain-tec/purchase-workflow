@@ -24,6 +24,7 @@ addon | version | maintainers | summary
 [procurement_purchase_no_grouping](procurement_purchase_no_grouping/) | 15.0.1.0.1 |  | Procurement Purchase No Grouping
 [procurement_purchase_sale_no_grouping](procurement_purchase_sale_no_grouping/) | 15.0.1.0.0 |  | Procurement Purchase Service No Grouping
 [product_form_purchase_link](product_form_purchase_link/) | 15.0.1.0.0 | [![rousseldenis](https://github.com/rousseldenis.png?size=30px)](https://github.com/rousseldenis) | Add an option to display the purchases lines from product
+[product_supplier_code_purchase](product_supplier_code_purchase/) | 15.0.1.0.0 |  | This module adds to the purchase order line the supplier code defined in the product.
 [purchase_advance_payment](purchase_advance_payment/) | 15.0.1.0.0 |  | Allow to add advance payments on purchase orders
 [purchase_allowed_product](purchase_allowed_product/) | 15.0.1.0.0 |  | This module allows to select only products that can be supplied by the vendor
 [purchase_analytic_global](purchase_analytic_global/) | 15.0.1.0.1 |  | Purchase - Analytic Account Global
@@ -44,6 +45,7 @@ addon | version | maintainers | summary
 [purchase_order_line_menu](purchase_order_line_menu/) | 15.0.1.0.0 |  | Adds Purchase Order Lines Menu
 [purchase_order_line_price_history](purchase_order_line_price_history/) | 15.0.1.0.0 |  | Purchase order line price history
 [purchase_order_line_price_history_discount](purchase_order_line_price_history_discount/) | 15.0.1.0.0 |  | Purchase order line price history discount
+[purchase_order_line_qty_to_receive](purchase_order_line_qty_to_receive/) | 15.0.1.0.0 |  | Purchase Line - Qty To Receive
 [purchase_order_line_stock_available](purchase_order_line_stock_available/) | 15.0.1.0.0 |  | Purchase order line stock available
 [purchase_order_no_zero_price](purchase_order_no_zero_price/) | 15.0.1.0.0 |  | Prevent zero price lines on Purchase Orders
 [purchase_order_product_recommendation](purchase_order_product_recommendation/) | 15.0.1.0.1 |  | Recommend products to buy to supplier based on history
