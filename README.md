@@ -64,9 +64,10 @@ addon | version | maintainers | summary
 [purchase_reception_notify](purchase_reception_notify/) | 15.0.1.0.0 |  | Purchase Reception Notify
 [purchase_reception_status](purchase_reception_status/) | 15.0.1.0.0 | [![alexis-via](https://github.com/alexis-via.png?size=30px)](https://github.com/alexis-via) | Add reception status on purchase orders
 [purchase_representative](purchase_representative/) | 15.0.1.0.0 |  | Purchase Representatives will be the point of contact for RFQ's and PO's
-[purchase_request](purchase_request/) | 15.0.1.1.0 |  | Use this module to have notification of requirements of materials and/or external services and keep track of such requirements.
+[purchase_request](purchase_request/) | 15.0.1.1.1 |  | Use this module to have notification of requirements of materials and/or external services and keep track of such requirements.
 [purchase_request_department](purchase_request_department/) | 15.0.1.0.0 |  | Purchase Request Department
 [purchase_request_tier_validation](purchase_request_tier_validation/) | 15.0.1.0.0 |  | Extends the functionality of Purchase Requests to support a tier validation process.
+[purchase_request_to_requisition](purchase_request_to_requisition/) | 15.0.1.0.0 |  | Purchase Request to Purchase Agreement
 [purchase_requisition_tier_validation](purchase_requisition_tier_validation/) | 15.0.1.0.0 |  | Extends the functionality of Purchase Agreements to support a tier validation process.
 [purchase_security](purchase_security/) | 15.0.1.0.0 | [![pilarvargas-tecnativa](https://github.com/pilarvargas-tecnativa.png?size=30px)](https://github.com/pilarvargas-tecnativa) | See only your purchase orders
 [purchase_stock_price_unit_sync](purchase_stock_price_unit_sync/) | 15.0.1.0.0 |  | Update cost price in stock moves already done
