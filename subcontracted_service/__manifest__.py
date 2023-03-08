@@ -6,9 +6,9 @@
 {
     "name": 'Subcontracted service',
     "summary": 'Subcontracted service',
-    "version": "12.0.1.0.1",
+    "version": "12.0.1.0.2",
     "category": "Purchase",
-    "website": "https://odoo-community.org/",
+    "website": "https://github.com/OCA/purchase-workflow",
     "author": "Camptocamp, Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "application": False,

@@ -2,10 +2,10 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
 {
     "name": "Purchase order line price history discount",
-    "version": "12.0.1.0.1",
+    "version": "12.0.1.0.2",
     "category": "Purchase Management",
     "author": "Tecnativa, Odoo Community Association (OCA)",
-    "website": "https://github.com/OCA/purchase-workflow/",
+    "website": "https://github.com/OCA/purchase-workflow",
     "license": "AGPL-3",
     "depends": [
         "purchase_order_line_price_history",

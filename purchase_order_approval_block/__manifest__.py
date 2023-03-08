@@ -4,7 +4,7 @@
 {
     "name": "Purchase Order Approval Block",
     "author": "Eficent, Odoo Community Association (OCA)",
-    "version": "12.0.1.0.0",
+    "version": "12.0.1.0.1",
     "category": "Purchase Management",
     "website": "https://github.com/OCA/purchase-workflow",
     "depends": [
@@ -18,6 +18,6 @@
         'views/purchase_approval_block_reason_view.xml',
         'views/purchase_order_view.xml',
     ],
-    "license": 'LGPL-3',
+    "license": 'AGPL-3',
     "installable": True
 }

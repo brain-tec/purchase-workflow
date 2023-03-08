@@ -3,10 +3,11 @@
 {
     "name": "Supplier Calendar",
     "summary": "Supplier Calendar",
-    'version': '12.0.1.0.0',
+    'version': '12.0.1.0.1',
     "category": "Purchase Management",
     "author": "ForgeFlow,"
                "Odoo Community Association (OCA)",
+    "website": "https://github.com/OCA/purchase-workflow",
     "maintainers": ["NuriaMForgeFlow"],
     "license": "LGPL-3",
     'application': False,
