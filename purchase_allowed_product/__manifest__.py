@@ -6,12 +6,12 @@
     "name": "Purchase and Invoice Allowed Product",
     "summary": "This module allows to select only products that can be "
     "supplied by the vendor",
-    "version": "15.0.1.0.0",
+    "version": "15.0.2.0.0",
     "category": "Accounting & Finance",
     "website": "https://github.com/OCA/purchase-workflow",
     "author": "Akretion, Odoo Community Association (OCA)",
     "license": "AGPL-3",
-    "depends": ["purchase"],
+    "depends": ["purchase", "base_view_inheritance_extension"],
     "data": [
         "views/res_partner_view.xml",
         "views/account_move_views.xml",
