@@ -31,7 +31,7 @@ addon | version | maintainers | summary
 [purchase_blanket_order](purchase_blanket_order/) | 15.0.1.3.1 |  | Purchase Blanket Orders
 [purchase_default_terms_conditions](purchase_default_terms_conditions/) | 15.0.1.0.1 |  | This module allows purchase default terms & conditions
 [purchase_delivery_split_date](purchase_delivery_split_date/) | 15.0.1.0.0 |  | Allows Purchase Order you confirm to generate one Incoming Shipment for each expected date indicated in the Purchase Order Lines
-[purchase_deposit](purchase_deposit/) | 15.0.1.0.0 |  | Option to create deposit from purchase order
+[purchase_deposit](purchase_deposit/) | 15.0.1.0.1 |  | Option to create deposit from purchase order
 [purchase_discount](purchase_discount/) | 15.0.1.1.0 |  | Purchase order lines with discounts
 [purchase_exception](purchase_exception/) | 15.0.1.0.0 |  | Custom exceptions on purchase order
 [purchase_fop_shipping](purchase_fop_shipping/) | 15.0.1.0.0 |  | Purchase Free-Of-Payment shipping
@@ -67,6 +67,7 @@ addon | version | maintainers | summary
 [purchase_representative](purchase_representative/) | 15.0.1.0.0 |  | Purchase Representatives will be the point of contact for RFQ's and PO's
 [purchase_request](purchase_request/) | 15.0.1.1.1 |  | Use this module to have notification of requirements of materials and/or external services and keep track of such requirements.
 [purchase_request_department](purchase_request_department/) | 15.0.1.0.0 |  | Purchase Request Department
+[purchase_request_exception](purchase_request_exception/) | 15.0.1.0.0 |  | Custom exceptions on purchase request
 [purchase_request_tier_validation](purchase_request_tier_validation/) | 15.0.1.0.0 |  | Extends the functionality of Purchase Requests to support a tier validation process.
 [purchase_request_to_requisition](purchase_request_to_requisition/) | 15.0.1.0.0 |  | Purchase Request to Purchase Agreement
 [purchase_requisition_grouped_by_procurement](purchase_requisition_grouped_by_procurement/) | 15.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Purchase Requisition Grouped by Procurement
