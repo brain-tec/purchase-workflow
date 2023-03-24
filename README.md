@@ -29,7 +29,7 @@ addon | version | maintainers | summary
 [purchase_allowed_product](purchase_allowed_product/) | 15.0.2.0.0 |  | This module allows to select only products that can be supplied by the vendor
 [purchase_analytic_global](purchase_analytic_global/) | 15.0.1.0.1 |  | Purchase - Analytic Account Global
 [purchase_blanket_order](purchase_blanket_order/) | 15.0.1.3.1 |  | Purchase Blanket Orders
-[purchase_default_terms_conditions](purchase_default_terms_conditions/) | 15.0.1.0.1 |  | This module allows purchase default terms & conditions
+[purchase_default_terms_conditions](purchase_default_terms_conditions/) | 15.0.1.0.2 |  | This module allows purchase default terms & conditions
 [purchase_delivery_split_date](purchase_delivery_split_date/) | 15.0.1.0.0 |  | Allows Purchase Order you confirm to generate one Incoming Shipment for each expected date indicated in the Purchase Order Lines
 [purchase_deposit](purchase_deposit/) | 15.0.1.0.1 |  | Option to create deposit from purchase order
 [purchase_discount](purchase_discount/) | 15.0.1.1.0 |  | Purchase order lines with discounts
@@ -38,7 +38,9 @@ addon | version | maintainers | summary
 [purchase_force_invoiced](purchase_force_invoiced/) | 15.0.1.0.1 |  | Allows to force the billing status of the purchase order to "Invoiced"
 [purchase_invoice_plan](purchase_invoice_plan/) | 15.0.1.0.0 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Add to purchases order, ability to manage future invoice plan
 [purchase_location_by_line](purchase_location_by_line/) | 15.0.1.0.0 |  | Allows to define a specific destination location on each PO line
+[purchase_merge](purchase_merge/) | 15.0.1.0.0 |  | Wizard to merge purchase with required conditions
 [purchase_open_qty](purchase_open_qty/) | 15.0.2.0.1 |  | Allows to identify the purchase orders that have quantities pending to invoice or to receive.
+[purchase_order_analytic_search](purchase_order_analytic_search/) | 15.0.1.0.0 |  | Search purchase orders by analytic account. New menu entry in Purchasing to list purchase order lines.
 [purchase_order_approved](purchase_order_approved/) | 15.0.1.0.0 |  | Add a new state 'Approved' in purchase orders.
 [purchase_order_general_discount](purchase_order_general_discount/) | 15.0.1.0.1 |  | General discount per purchase order
 [purchase_order_line_deep_sort](purchase_order_line_deep_sort/) | 15.0.1.0.0 |  | Purchase Order Line Sort
@@ -62,6 +64,7 @@ addon | version | maintainers | summary
 [purchase_receipt_expectation](purchase_receipt_expectation/) | 15.0.1.0.0 |  | Purchase Receipt Expectation
 [purchase_receipt_expectation_manual](purchase_receipt_expectation_manual/) | 15.0.1.0.1 |  | Purchase Receipt Expectation - Manual
 [purchase_receipt_expectation_manual_split](purchase_receipt_expectation_manual_split/) | 15.0.2.0.0 |  | Purchase Receipt Expectation - Manual w/ Split
+[purchase_receipt_percentage](purchase_receipt_percentage/) | 15.0.1.0.0 |  | Purchase - Receipt Percentage
 [purchase_reception_notify](purchase_reception_notify/) | 15.0.1.0.0 |  | Purchase Reception Notify
 [purchase_reception_status](purchase_reception_status/) | 15.0.1.0.0 | [![alexis-via](https://github.com/alexis-via.png?size=30px)](https://github.com/alexis-via) | Add reception status on purchase orders
 [purchase_representative](purchase_representative/) | 15.0.1.0.0 |  | Purchase Representatives will be the point of contact for RFQ's and PO's
@@ -77,6 +80,7 @@ addon | version | maintainers | summary
 [purchase_security](purchase_security/) | 15.0.1.0.0 | [![pilarvargas-tecnativa](https://github.com/pilarvargas-tecnativa.png?size=30px)](https://github.com/pilarvargas-tecnativa) | See only your purchase orders
 [purchase_stock_price_unit_sync](purchase_stock_price_unit_sync/) | 15.0.1.0.0 |  | Update cost price in stock moves already done
 [purchase_stock_return_request](purchase_stock_return_request/) | 15.0.1.0.0 |  | Purchase Stock Return Request
+[purchase_tag](purchase_tag/) | 15.0.1.0.0 |  | Allows to add multiple tags to purchase orders
 [purchase_tier_validation](purchase_tier_validation/) | 15.0.1.0.0 |  | Extends the functionality of Purchase Orders to support a tier validation process.
 [purchase_triple_discount](purchase_triple_discount/) | 15.0.1.1.0 |  | Manage triple discount on purchase order lines
 [purchase_v12_control_menu](purchase_v12_control_menu/) | 15.0.1.0.0 |  | Purchase Control Menu from v12
