@@ -32,7 +32,7 @@ addon | version | maintainers | summary
 [purchase_default_terms_conditions](purchase_default_terms_conditions/) | 15.0.1.0.2 |  | This module allows purchase default terms & conditions
 [purchase_delivery_split_date](purchase_delivery_split_date/) | 15.0.1.0.0 |  | Allows Purchase Order you confirm to generate one Incoming Shipment for each expected date indicated in the Purchase Order Lines
 [purchase_deposit](purchase_deposit/) | 15.0.1.0.1 |  | Option to create deposit from purchase order
-[purchase_discount](purchase_discount/) | 15.0.1.1.0 |  | Purchase order lines with discounts
+[purchase_discount](purchase_discount/) | 15.0.1.1.1 |  | Purchase order lines with discounts
 [purchase_exception](purchase_exception/) | 15.0.1.0.0 |  | Custom exceptions on purchase order
 [purchase_fop_shipping](purchase_fop_shipping/) | 15.0.1.0.0 |  | Purchase Free-Of-Payment shipping
 [purchase_force_invoiced](purchase_force_invoiced/) | 15.0.1.0.1 |  | Allows to force the billing status of the purchase order to "Invoiced"
@@ -56,6 +56,7 @@ addon | version | maintainers | summary
 [purchase_order_product_recommendation_forecast](purchase_order_product_recommendation_forecast/) | 15.0.1.0.0 |  | Obtain linear progression forecast from reference years
 [purchase_order_product_recommendation_xlsx](purchase_order_product_recommendation_xlsx/) | 15.0.1.0.0 |  | Add a way to print recommended products for supplier
 [purchase_order_qty_change_no_recompute](purchase_order_qty_change_no_recompute/) | 15.0.1.0.1 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Prevent recompute if only quantity has changed in purchase order line
+[purchase_order_secondary_unit](purchase_order_secondary_unit/) | 15.0.1.0.0 |  | Purchase product in a secondary unit
 [purchase_order_supplierinfo_update](purchase_order_supplierinfo_update/) | 15.0.1.0.0 | [![ernestotejeda](https://github.com/ernestotejeda.png?size=30px)](https://github.com/ernestotejeda) | Update product supplierinfo with the last purchase price
 [purchase_order_type](purchase_order_type/) | 15.0.1.0.0 |  | Purchase Order Type
 [purchase_order_uninvoiced_amount](purchase_order_uninvoiced_amount/) | 15.0.1.0.0 |  | Purchase Order Univoiced Amount
