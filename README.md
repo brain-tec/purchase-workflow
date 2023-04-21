@@ -23,7 +23,7 @@ addon | version | maintainers | summary
 --- | --- | --- | ---
 [purchase_advance_payment](purchase_advance_payment/) | 16.0.1.0.0 |  | Allow to add advance payments on purchase orders
 [purchase_all_shipments](purchase_all_shipments/) | 16.0.1.0.0 |  | Purchase All Shipments
-[purchase_allowed_product](purchase_allowed_product/) | 16.0.1.0.0 |  | This module allows to select only products that can be supplied by the vendor
+[purchase_allowed_product](purchase_allowed_product/) | 16.0.2.0.0 |  | This module allows to select only products that can be supplied by the vendor
 [purchase_commercial_partner](purchase_commercial_partner/) | 16.0.1.0.0 | [![alexis-via](https://github.com/alexis-via.png?size=30px)](https://github.com/alexis-via) | Add stored related field 'Commercial Supplier' on POs
 [purchase_default_terms_conditions](purchase_default_terms_conditions/) | 16.0.1.0.1 |  | This module allows purchase default terms & conditions
 [purchase_delivery_split_date](purchase_delivery_split_date/) | 16.0.1.0.0 |  | Allows Purchase Order you confirm to generate one Incoming Shipment for each expected date indicated in the Purchase Order Lines
@@ -32,8 +32,9 @@ addon | version | maintainers | summary
 [purchase_force_invoiced](purchase_force_invoiced/) | 16.0.1.0.0 |  | Allows to force the billing status of the purchase order to "Invoiced"
 [purchase_last_price_info](purchase_last_price_info/) | 16.0.1.0.0 | [![LoisRForgeFlow](https://github.com/LoisRForgeFlow.png?size=30px)](https://github.com/LoisRForgeFlow) | Purchase Product Last Price Info
 [purchase_line_procurement_group](purchase_line_procurement_group/) | 16.0.1.0.0 |  | Group purchase order line according to procurement group
+[purchase_lot](purchase_lot/) | 16.0.1.0.0 | [![florian-dacosta](https://github.com/florian-dacosta.png?size=30px)](https://github.com/florian-dacosta) | Purchase Lot
 [purchase_order_approved](purchase_order_approved/) | 16.0.1.0.0 |  | Add a new state 'Approved' in purchase orders.
-[purchase_order_line_menu](purchase_order_line_menu/) | 16.0.1.0.0 |  | Adds Purchase Order Lines Menu
+[purchase_order_line_menu](purchase_order_line_menu/) | 16.0.1.1.0 |  | Adds Purchase Order Lines Menu
 [purchase_order_owner](purchase_order_owner/) | 16.0.1.0.0 |  | Purchase Order Owner
 [purchase_request](purchase_request/) | 16.0.1.0.0 |  | Use this module to have notification of requirements of materials and/or external services and keep track of such requirements.
 [purchase_request_tier_validation](purchase_request_tier_validation/) | 16.0.1.0.0 |  | Extends the functionality of Purchase Requests to support a tier validation process.
