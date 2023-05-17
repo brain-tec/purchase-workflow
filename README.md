@@ -36,6 +36,7 @@ addon | version | maintainers | summary
 [purchase_no_rfq](purchase_no_rfq/) | 16.0.1.0.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Purchase Order - No Request For Quotation
 [purchase_order_approved](purchase_order_approved/) | 16.0.1.0.0 |  | Add a new state 'Approved' in purchase orders.
 [purchase_order_line_menu](purchase_order_line_menu/) | 16.0.1.1.0 |  | Adds Purchase Order Lines Menu
+[purchase_order_no_zero_price](purchase_order_no_zero_price/) | 16.0.1.0.0 |  | Prevent zero price lines on Purchase Orders
 [purchase_order_owner](purchase_order_owner/) | 16.0.1.0.0 |  | Purchase Order Owner
 [purchase_order_product_recommendation](purchase_order_product_recommendation/) | 16.0.1.0.0 |  | Recommend products to buy to supplier based on history
 [purchase_order_supplierinfo_update](purchase_order_supplierinfo_update/) | 16.0.1.0.0 | [![ernestotejeda](https://github.com/ernestotejeda.png?size=30px)](https://github.com/ernestotejeda) | Update product supplierinfo with the last purchase price
