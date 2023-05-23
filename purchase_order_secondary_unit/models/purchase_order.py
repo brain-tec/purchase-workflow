@@ -15,11 +15,21 @@ class PurchaseOrderLine(models.Model):
         store=True, readonly=False, compute="_compute_product_qty", copy=True
     )
 
+    secondary_uom_qty = fields.Float(
+        string="Secondary Qty",
+        digits="Product Unit of Measure",
+        store=True,
+        readonly=False,
+        compute="_compute_secondary_uom_qty",
+        precompute=False,
+        default=1,
+    )
+
     @api.depends("secondary_uom_qty", "secondary_uom_id")
     def _compute_product_qty(self):
-        if hasattr(super(), "_compute_product_qty"):
-            return super()._compute_product_qty()
-        return self._compute_helper_target_field_qty()
+        super()._compute_product_qty()
+
+        self._compute_helper_target_field_qty()
 
     @api.onchange("product_uom")
     def onchange_product_uom_for_secondary(self):
