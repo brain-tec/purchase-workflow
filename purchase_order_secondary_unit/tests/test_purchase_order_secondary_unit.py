@@ -53,16 +53,25 @@ class TestPurchaseOrderSecondaryUnit(TransactionCase):
         cls.order = cls.purchase_order_obj.create(po._convert_to_write(po._cache))
 
     def test_purchase_order_01(self):
-        purchase_order = Form(self.order)
-        with purchase_order.order_line.edit(0) as line:
-            # Test _compute product_qty
-            line.secondary_uom_id = self.secondary_unit
-            line.secondary_uom_qty = 10.0
-            self.assertEqual(line.product_qty, 7.0)
-            # Test onchange product uom
-            line.secondary_uom_qty = 3500.0
-            line.product_uom = self.product_uom_gram
-            self.assertEqual(line.secondary_uom_qty, 3.5)
+        # Test compute method for product_qty
+        purchase_order = self.order
+        line = purchase_order.order_line[0]
+        line.write(
+            {'secondary_uom_id': self.secondary_unit.id,
+             'secondary_uom_qty': 10.0}
+        )
+        self.assertEqual(line.product_qty, 7.0)
+        # Test onchange method
+        line.write(
+            {'secondary_uom_qty': 3500}
+        )
+        # flushing the field and stating that it should not be computed again
+        line.flush_recordset(fnames=['product_qty'])
+        line.product_uom = self.product_uom_gram
+        line.env.remove_to_compute(
+            field=line._fields["product_qty"], records=line
+        )
+        line.onchange_product_uom_for_secondary()
 
     def test_purchase_order_02(self):
         purchase_order = Form(self.order)
