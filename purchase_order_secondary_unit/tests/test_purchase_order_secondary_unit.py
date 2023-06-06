@@ -72,6 +72,7 @@ class TestPurchaseOrderSecondaryUnit(TransactionCase):
             field=line._fields["product_qty"], records=line
         )
         line.onchange_product_uom_for_secondary()
+        self.assertEqual(line.secondary_uom_qty, 3.5)
 
     def test_purchase_order_02(self):
         purchase_order = Form(self.order)
