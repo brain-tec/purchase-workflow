@@ -37,6 +37,7 @@ addon | version | maintainers | summary
 [purchase_exception](purchase_exception/) | 15.0.1.0.0 |  | Custom exceptions on purchase order
 [purchase_fop_shipping](purchase_fop_shipping/) | 15.0.1.0.0 |  | Purchase Free-Of-Payment shipping
 [purchase_force_invoiced](purchase_force_invoiced/) | 15.0.1.0.1 |  | Allows to force the billing status of the purchase order to "Invoiced"
+[purchase_fully_invoiced](purchase_fully_invoiced/) | 15.0.1.0.0 |  | Useful filters in Purchases to know the actual status of invoices.
 [purchase_fully_received](purchase_fully_received/) | 15.0.1.0.0 |  | Useful filters in Purchases to know the actual status of shipments.and invoices
 [purchase_invoice_method](purchase_invoice_method/) | 15.0.1.0.0 |  | Allow to force the invoice method of a purchase
 [purchase_invoice_plan](purchase_invoice_plan/) | 15.0.1.0.2 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Add to purchases order, ability to manage future invoice plan
@@ -88,7 +89,7 @@ addon | version | maintainers | summary
 [purchase_requisition_grouped_by_procurement](purchase_requisition_grouped_by_procurement/) | 15.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Purchase Requisition Grouped by Procurement
 [purchase_requisition_order_remaining_qty](purchase_requisition_order_remaining_qty/) | 15.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Purchase Requisition Order Remaining Qty
 [purchase_requisition_tier_validation](purchase_requisition_tier_validation/) | 15.0.1.0.0 |  | Extends the functionality of Purchase Agreements to support a tier validation process.
-[purchase_security](purchase_security/) | 15.0.1.0.0 | [![pilarvargas-tecnativa](https://github.com/pilarvargas-tecnativa.png?size=30px)](https://github.com/pilarvargas-tecnativa) | See only your purchase orders
+[purchase_security](purchase_security/) | 15.0.2.0.0 | [![pilarvargas-tecnativa](https://github.com/pilarvargas-tecnativa.png?size=30px)](https://github.com/pilarvargas-tecnativa) | See only your purchase orders
 [purchase_stock_price_unit_sync](purchase_stock_price_unit_sync/) | 15.0.1.0.0 |  | Update cost price in stock moves already done
 [purchase_stock_return_request](purchase_stock_return_request/) | 15.0.1.0.0 |  | Purchase Stock Return Request
 [purchase_stock_secondary_unit](purchase_stock_secondary_unit/) | 15.0.1.0.0 |  | Get product quantities in a secondary unit
