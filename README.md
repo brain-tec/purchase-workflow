@@ -50,10 +50,11 @@ addon | version | maintainers | summary
 [purchase_order_approved](purchase_order_approved/) | 15.0.1.0.0 |  | Add a new state 'Approved' in purchase orders.
 [purchase_order_general_discount](purchase_order_general_discount/) | 15.0.1.0.1 |  | General discount per purchase order
 [purchase_order_line_deep_sort](purchase_order_line_deep_sort/) | 15.0.1.0.0 |  | Purchase Order Line Sort
-[purchase_order_line_menu](purchase_order_line_menu/) | 15.0.1.1.0 |  | Adds Purchase Order Lines Menu
+[purchase_order_line_menu](purchase_order_line_menu/) | 15.0.1.2.0 |  | Adds Purchase Order Lines Menu
 [purchase_order_line_price_history](purchase_order_line_price_history/) | 15.0.1.0.0 |  | Purchase order line price history
 [purchase_order_line_price_history_discount](purchase_order_line_price_history_discount/) | 15.0.1.0.0 |  | Purchase order line price history discount
 [purchase_order_line_qty_to_receive](purchase_order_line_qty_to_receive/) | 15.0.1.0.0 |  | Purchase Line - Qty To Receive
+[purchase_order_line_sequence](purchase_order_line_sequence/) | 15.0.1.0.0 |  | Adds sequence to PO lines and propagates it toInvoice lines and Stock Moves
 [purchase_order_line_stock_available](purchase_order_line_stock_available/) | 15.0.1.0.0 |  | Purchase order line stock available
 [purchase_order_no_zero_price](purchase_order_no_zero_price/) | 15.0.1.0.0 |  | Prevent zero price lines on Purchase Orders
 [purchase_order_product_recommendation](purchase_order_product_recommendation/) | 15.0.1.0.1 |  | Recommend products to buy to supplier based on history
@@ -69,6 +70,7 @@ addon | version | maintainers | summary
 [purchase_order_type](purchase_order_type/) | 15.0.1.0.0 |  | Purchase Order Type
 [purchase_order_type_dashboard](purchase_order_type_dashboard/) | 15.0.1.0.0 | [![dalonsod](https://github.com/dalonsod.png?size=30px)](https://github.com/dalonsod) | Purchase Order Type Dashboard
 [purchase_order_uninvoiced_amount](purchase_order_uninvoiced_amount/) | 15.0.1.0.0 |  | Purchase Order Univoiced Amount
+[purchase_order_weight_volume](purchase_order_weight_volume/) | 15.0.1.0.0 |  | Display purchase order weight and volume
 [purchase_partner_incoterm](purchase_partner_incoterm/) | 15.0.3.0.0 | [![TDu](https://github.com/TDu.png?size=30px)](https://github.com/TDu) [![bealdav](https://github.com/bealdav.png?size=30px)](https://github.com/bealdav) | Add a an incoterm field for supplier and use it on purchase order
 [purchase_partner_selectable_option](purchase_partner_selectable_option/) | 15.0.1.0.1 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Purchase Partner Selectable Option
 [purchase_quick](purchase_quick/) | 15.0.1.0.0 |  | Quick Purchase order
