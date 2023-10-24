@@ -29,7 +29,7 @@ addon | version | maintainers | summary
 [purchase_advance_payment](purchase_advance_payment/) | 14.0.1.1.0 |  | Allow to add advance payments on purchase orders
 [purchase_allowed_product](purchase_allowed_product/) | 14.0.1.0.0 |  | This module allows to select only products that can be supplied by the vendor
 [purchase_analytic_global](purchase_analytic_global/) | 14.0.1.0.0 |  | Purchase - Analytic Account Global
-[purchase_blanket_order](purchase_blanket_order/) | 14.0.1.4.0 |  | Purchase Blanket Orders
+[purchase_blanket_order](purchase_blanket_order/) | 14.0.2.0.0 |  | Purchase Blanket Orders
 [purchase_cancel_confirm](purchase_cancel_confirm/) | 14.0.1.0.1 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Purchase Cancel Confirm
 [purchase_cancel_reason](purchase_cancel_reason/) | 14.0.1.0.0 |  | Purchase Cancel Reason
 [purchase_commercial_partner](purchase_commercial_partner/) | 14.0.1.0.0 |  | Add stored related field 'Commercial Supplier' on POs
@@ -107,7 +107,7 @@ addon | version | maintainers | summary
 [purchase_substate](purchase_substate/) | 14.0.1.0.0 |  | Purchase Sub State
 [purchase_supplierinfo_product_breakdown](purchase_supplierinfo_product_breakdown/) | 14.0.1.0.0 |  | Purchase Supplierinfo Product Breakdown
 [purchase_tag](purchase_tag/) | 14.0.1.0.0 |  | Allows to add multiple tags to purchase orders
-[purchase_tier_validation](purchase_tier_validation/) | 14.0.2.0.1 |  | Extends the functionality of Purchase Orders to support a tier validation process.
+[purchase_tier_validation](purchase_tier_validation/) | 14.0.2.1.0 |  | Extends the functionality of Purchase Orders to support a tier validation process.
 [purchase_triple_discount](purchase_triple_discount/) | 14.0.1.1.0 |  | Manage triple discount on purchase order lines
 [purchase_vendor_bill_breakdown](purchase_vendor_bill_breakdown/) | 14.0.1.0.0 | [![geomer198](https://github.com/geomer198.png?size=30px)](https://github.com/geomer198) [![CetmixGitDrone](https://github.com/CetmixGitDrone.png?size=30px)](https://github.com/CetmixGitDrone) | Purchase Vendor Bill Breakdown
 [purchase_work_acceptance](purchase_work_acceptance/) | 14.0.1.3.0 | [![ps-tubtim](https://github.com/ps-tubtim.png?size=30px)](https://github.com/ps-tubtim) | Purchase Work Acceptance
