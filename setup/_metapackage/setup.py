@@ -28,6 +28,7 @@ setuptools.setup(
         'odoo-addon-purchase_manual_delivery>=16.0dev,<16.1dev',
         'odoo-addon-purchase_merge>=16.0dev,<16.1dev',
         'odoo-addon-purchase_no_rfq>=16.0dev,<16.1dev',
+        'odoo-addon-purchase_only_by_packaging>=16.0dev,<16.1dev',
         'odoo-addon-purchase_open_qty>=16.0dev,<16.1dev',
         'odoo-addon-purchase_order_approved>=16.0dev,<16.1dev',
         'odoo-addon-purchase_order_archive>=16.0dev,<16.1dev',
@@ -54,6 +55,7 @@ setuptools.setup(
         'odoo-addon-purchase_tier_validation>=16.0dev,<16.1dev',
         'odoo-addon-purchase_triple_discount>=16.0dev,<16.1dev',
         'odoo-addon-purchase_warn_message>=16.0dev,<16.1dev',
+        'odoo-addon-sale_purchase_force_vendor>=16.0dev,<16.1dev',
     ],
     classifiers=[
         'Programming Language :: Python',
