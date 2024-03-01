@@ -53,6 +53,7 @@ addon | version | maintainers | summary
 [purchase_order_line_menu](purchase_order_line_menu/) | 16.0.2.1.0 |  | Adds Purchase Order Lines Menu
 [purchase_order_no_zero_price](purchase_order_no_zero_price/) | 16.0.1.0.1 |  | Prevent zero price lines on Purchase Orders
 [purchase_order_owner](purchase_order_owner/) | 16.0.1.0.0 |  | Purchase Order Owner
+[purchase_order_price_recalculation](purchase_order_price_recalculation/) | 16.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Price recalculation in purchases orders
 [purchase_order_product_attachment_mgmt](purchase_order_product_attachment_mgmt/) | 16.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Purchase Order Product Attachment Mgmt
 [purchase_order_product_recommendation](purchase_order_product_recommendation/) | 16.0.1.1.0 |  | Recommend products to buy to supplier based on history
 [purchase_order_purchase_manager](purchase_order_purchase_manager/) | 16.0.1.0.1 | [![EmilioPascual](https://github.com/EmilioPascual.png?size=30px)](https://github.com/EmilioPascual) | Purchase Manager from Supplier in Purchase Order
@@ -66,11 +67,12 @@ addon | version | maintainers | summary
 [purchase_partner_selectable_option](purchase_partner_selectable_option/) | 16.0.1.0.3 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Purchase Partner Selectable Option
 [purchase_product_packaging_container_deposit](purchase_product_packaging_container_deposit/) | 16.0.1.0.0 |  | Purchase Product Packaging Container Deposit
 [purchase_reception_status](purchase_reception_status/) | 16.0.1.0.1 | [![alexis-via](https://github.com/alexis-via.png?size=30px)](https://github.com/alexis-via) | Add reception status on purchase orders
-[purchase_request](purchase_request/) | 16.0.1.0.3 |  | Use this module to have notification of requirements of materials and/or external services and keep track of such requirements.
+[purchase_request](purchase_request/) | 16.0.1.0.4 |  | Use this module to have notification of requirements of materials and/or external services and keep track of such requirements.
 [purchase_request_tier_validation](purchase_request_tier_validation/) | 16.0.1.0.0 |  | Extends the functionality of Purchase Requests to support a tier validation process.
 [purchase_requisition_tier_validation](purchase_requisition_tier_validation/) | 16.0.1.0.0 |  | Extends the functionality of Purchase Agreements to support a tier validation process.
 [purchase_security](purchase_security/) | 16.0.2.0.0 | [![pilarvargas-tecnativa](https://github.com/pilarvargas-tecnativa.png?size=30px)](https://github.com/pilarvargas-tecnativa) | See only your purchase orders
 [purchase_stock_packaging](purchase_stock_packaging/) | 16.0.1.0.0 | [![rousseldenis](https://github.com/rousseldenis.png?size=30px)](https://github.com/rousseldenis) | Allows to transmit the product packaging from the procurement values to the generated purchase order line
+[purchase_stock_price_unit_sync](purchase_stock_price_unit_sync/) | 16.0.1.0.0 |  | Update cost price in stock moves already done
 [purchase_tag](purchase_tag/) | 16.0.1.1.0 |  | Allows to add multiple tags to purchase orders
 [purchase_tier_validation](purchase_tier_validation/) | 16.0.1.1.0 |  | Extends the functionality of Purchase Orders to support a tier validation process.
 [purchase_triple_discount](purchase_triple_discount/) | 16.0.1.0.0 |  | Manage triple discount on purchase order lines
