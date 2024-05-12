@@ -32,7 +32,7 @@ addon | version | maintainers | summary
 [purchase_default_terms_conditions](purchase_default_terms_conditions/) | 16.0.1.0.3 |  | This module allows purchase default terms & conditions
 [purchase_delivery_split_date](purchase_delivery_split_date/) | 16.0.1.0.2 |  | Allows Purchase Order you confirm to generate one Incoming Shipment for each expected date indicated in the Purchase Order Lines
 [purchase_deposit](purchase_deposit/) | 16.0.1.0.1 |  | Option to create deposit from purchase order
-[purchase_discount](purchase_discount/) | 16.0.1.2.0 |  | Purchase order lines with discounts
+[purchase_discount](purchase_discount/) | 16.0.1.2.1 |  | Purchase order lines with discounts
 [purchase_exception](purchase_exception/) | 16.0.1.0.1 |  | Custom exceptions on purchase order
 [purchase_fop_shipping](purchase_fop_shipping/) | 16.0.1.0.1 |  | Purchase Free-Of-Payment shipping
 [purchase_force_invoiced](purchase_force_invoiced/) | 16.0.1.0.1 |  | Allows to force the billing status of the purchase order to "Invoiced"
@@ -68,6 +68,7 @@ addon | version | maintainers | summary
 [purchase_order_type_dashboard](purchase_order_type_dashboard/) | 16.0.1.0.0 | [![dalonsod](https://github.com/dalonsod.png?size=30px)](https://github.com/dalonsod) | Purchase Order Type Dashboard
 [purchase_order_uninvoiced_amount](purchase_order_uninvoiced_amount/) | 16.0.1.0.1 |  | Purchase Order Univoiced Amount
 [purchase_order_weight_volume](purchase_order_weight_volume/) | 16.0.2.2.0 | [![ilyasProgrammer](https://github.com/ilyasProgrammer.png?size=30px)](https://github.com/ilyasProgrammer) | Display purchase order weight and volume
+[purchase_packaging_default](purchase_packaging_default/) | 16.0.1.0.0 |  | Set default packaging in purchase
 [purchase_packaging_level_qty](purchase_packaging_level_qty/) | 16.0.1.0.0 |  | Display purchase order packaging level quantity
 [purchase_partner_incoterm](purchase_partner_incoterm/) | 16.0.1.0.0 | [![TDu](https://github.com/TDu.png?size=30px)](https://github.com/TDu) [![bealdav](https://github.com/bealdav.png?size=30px)](https://github.com/bealdav) | Add a an incoterm field for supplier and use it on purchase order
 [purchase_partner_selectable_option](purchase_partner_selectable_option/) | 16.0.1.0.3 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Purchase Partner Selectable Option
