@@ -8,6 +8,7 @@ setuptools.setup(
     description="Meta package for oca-purchase-workflow Odoo addons",
     version=version,
     install_requires=[
+        'odoo-addon-partner_supplierinfo_smartbutton>=16.0dev,<16.1dev',
         'odoo-addon-procurement_purchase_no_grouping>=16.0dev,<16.1dev',
         'odoo-addon-product_supplier_code_purchase>=16.0dev,<16.1dev',
         'odoo-addon-product_supplierinfo_purchase_contact>=16.0dev,<16.1dev',
@@ -44,6 +45,7 @@ setuptools.setup(
         'odoo-addon-purchase_order_hide_receipt_status>=16.0dev,<16.1dev',
         'odoo-addon-purchase_order_line_menu>=16.0dev,<16.1dev',
         'odoo-addon-purchase_order_line_receipt_status>=16.0dev,<16.1dev',
+        'odoo-addon-purchase_order_line_stock_available>=16.0dev,<16.1dev',
         'odoo-addon-purchase_order_no_zero_price>=16.0dev,<16.1dev',
         'odoo-addon-purchase_order_owner>=16.0dev,<16.1dev',
         'odoo-addon-purchase_order_price_recalculation>=16.0dev,<16.1dev',
