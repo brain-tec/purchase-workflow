@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-18 07:27+0000\n"
-"PO-Revision-Date: 2023-10-09 08:29+0000\n"
+"PO-Revision-Date: 2024-11-04 17:06+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: Italian (https://www.transifex.com/oca/teams/23907/it/)\n"
 "Language: it\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.17\n"
+"X-Generator: Weblate 5.6.2\n"
 
 #. module: purchase_request
 #: model:ir.actions.act_window,help:purchase_request.purchase_request_form_action
@@ -468,7 +468,7 @@ msgstr "Stato"
 #: field:purchase.request,message_summary:0
 #: field:purchase.request.line,message_summary:0
 msgid "Summary"
-msgstr "Periodo Iva"
+msgstr "Riepilogo"
 
 #. module: purchase_request
 #: view:purchase.request:purchase_request.view_purchase_request_search
