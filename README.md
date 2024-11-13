@@ -35,7 +35,7 @@ addon | version | maintainers | summary
 [purchase_cancel_remaining_delivery](purchase_cancel_remaining_delivery/) | 14.0.1.0.0 | [![TDu](https://github.com/TDu.png?size=30px)](https://github.com/TDu) | Purchase Cancel Remaining Delivery
 [purchase_commercial_partner](purchase_commercial_partner/) | 14.0.1.0.0 |  | Add stored related field 'Commercial Supplier' on POs
 [purchase_default_terms_conditions](purchase_default_terms_conditions/) | 14.0.1.0.2 |  | This module allows purchase default terms & conditions
-[purchase_delivery_split_date](purchase_delivery_split_date/) | 14.0.1.1.2 |  | Allows Purchase Order you confirm to generate one Incoming Shipment for each expected date indicated in the Purchase Order Lines
+[purchase_delivery_split_date](purchase_delivery_split_date/) | 14.0.1.2.0 |  | Allows Purchase Order you confirm to generate one Incoming Shipment for each expected date indicated in the Purchase Order Lines
 [purchase_deposit](purchase_deposit/) | 14.0.1.1.2 |  | Option to create deposit from purchase order
 [purchase_discount](purchase_discount/) | 14.0.1.2.1 |  | Purchase order lines with discounts
 [purchase_exception](purchase_exception/) | 14.0.1.0.0 |  | Custom exceptions on purchase order
@@ -49,7 +49,7 @@ addon | version | maintainers | summary
 [purchase_isolated_rfq](purchase_isolated_rfq/) | 14.0.1.0.1 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Purchase Isolated RFQ
 [purchase_last_price_info](purchase_last_price_info/) | 14.0.2.0.1 | [![LoisRForgeFlow](https://github.com/LoisRForgeFlow.png?size=30px)](https://github.com/LoisRForgeFlow) | Purchase Product Last Price Info
 [purchase_line_service_qty_received](purchase_line_service_qty_received/) | 14.0.1.0.0 |  | Changes the Received Quantity (qty_received) of a service purchase.order.lineif one other purchase.order.line is received the qty_received of the service lineis changed to its Quantity (product_uom_qty)
-[purchase_location_by_line](purchase_location_by_line/) | 14.0.1.0.1 |  | Allows to define a specific destination location on each PO line
+[purchase_location_by_line](purchase_location_by_line/) | 14.0.1.1.0 |  | Allows to define a specific destination location on each PO line
 [purchase_lot](purchase_lot/) | 14.0.1.0.0 | [![florian-dacosta](https://github.com/florian-dacosta.png?size=30px)](https://github.com/florian-dacosta) | Purchase Lot
 [purchase_manual_currency](purchase_manual_currency/) | 14.0.1.0.0 |  | Allows to manual currency of Purchase
 [purchase_manual_delivery](purchase_manual_delivery/) | 14.0.1.0.1 |  | Prevents pickings to be auto generated upon Purchase Order confirmation and adds the ability to manually generate them as the supplier confirms the different purchase order lines.
