@@ -55,6 +55,7 @@ setuptools.setup(
         'odoo-addon-purchase_order_product_recommendation>=16.0dev,<16.1dev',
         'odoo-addon-purchase_order_purchase_manager>=16.0dev,<16.1dev',
         'odoo-addon-purchase_order_qty_change_no_recompute>=16.0dev,<16.1dev',
+        'odoo-addon-purchase_order_secondary_unit>=16.0dev,<16.1dev',
         'odoo-addon-purchase_order_supplier_return>=16.0dev,<16.1dev',
         'odoo-addon-purchase_order_supplierinfo_update>=16.0dev,<16.1dev',
         'odoo-addon-purchase_order_type>=16.0dev,<16.1dev',
