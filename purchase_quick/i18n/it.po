@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 14.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2023-04-18 12:34+0000\n"
+"PO-Revision-Date: 2025-01-11 13:06+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: none\n"
 "Language: it\n"
@@ -14,12 +14,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.1\n"
+"X-Generator: Weblate 5.6.2\n"
 
 #. module: purchase_quick
 #: model_terms:ir.ui.view,arch_db:purchase_quick.view_purchase_form
 msgid "Add from supplier's product list"
-msgstr ""
+msgstr "Aggiungi dall'elenco prodotti del fornitore"
 
 #. module: purchase_quick
 #: model_terms:ir.ui.view,arch_db:purchase_quick.product_search_form_view
@@ -39,6 +39,8 @@ msgid ""
 "Must have only 1 line per product for mass addition, but there are "
 "%(nr_lines)s lines for the product %(product_name)s"
 msgstr ""
+"Bisogna avere solo una riga per prodotto per l'aggiunta di massa, ma ci sono "
+"%(nr_lines)s righe per il prodotto %(product_name)s"
 
 #. module: purchase_quick
 #: model_terms:ir.ui.view,arch_db:purchase_quick.product_tree_view4purchase
@@ -53,7 +55,7 @@ msgstr "Riga PO"
 #. module: purchase_quick
 #: model:ir.model,name:purchase_quick.model_product_product
 msgid "Product Variant"
-msgstr ""
+msgstr "Variante prodotto"
 
 #. module: purchase_quick
 #. odoo-python
