@@ -37,14 +37,14 @@ addon | version | maintainers | summary
 [purchase_default_terms_conditions](purchase_default_terms_conditions/) | 16.0.1.0.3 |  | This module allows purchase default terms & conditions
 [purchase_delivery_split_date](purchase_delivery_split_date/) | 16.0.1.0.4 |  | Allows Purchase Order you confirm to generate one Incoming Shipment for each expected date indicated in the Purchase Order Lines
 [purchase_deposit](purchase_deposit/) | 16.0.1.1.0 |  | Option to create deposit from purchase order
-[purchase_discount](purchase_discount/) | 16.0.2.0.1 |  | Purchase order lines with discounts
+[purchase_discount](purchase_discount/) | 16.0.2.0.2 |  | Purchase order lines with discounts
 [purchase_exception](purchase_exception/) | 16.0.1.0.1 |  | Custom exceptions on purchase order
 [purchase_fop_shipping](purchase_fop_shipping/) | 16.0.1.0.1 |  | Purchase Free-Of-Payment shipping
 [purchase_force_invoiced](purchase_force_invoiced/) | 16.0.1.0.1 |  | Allows to force the billing status of the purchase order to "Invoiced"
 [purchase_force_invoiced_quantity](purchase_force_invoiced_quantity/) | 16.0.1.0.0 |  | Add manual invoice quantity in purchase order lines
 [purchase_invoice_method](purchase_invoice_method/) | 16.0.1.0.0 |  | Allow to force the invoice method of a purchase
 [purchase_invoice_plan](purchase_invoice_plan/) | 16.0.1.0.0 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Add to purchases order, ability to manage future invoice plan
-[purchase_landed_cost](purchase_landed_cost/) | 16.0.1.0.0 |  | Purchase cost distribution
+[purchase_landed_cost](purchase_landed_cost/) | 16.0.1.0.1 |  | Purchase cost distribution
 [purchase_last_price_info](purchase_last_price_info/) | 16.0.1.0.1 | [![LoisRForgeFlow](https://github.com/LoisRForgeFlow.png?size=30px)](https://github.com/LoisRForgeFlow) | Purchase Product Last Price Info
 [purchase_line_procurement_group](purchase_line_procurement_group/) | 16.0.1.0.0 |  | Group purchase order line according to procurement group
 [purchase_location_by_line](purchase_location_by_line/) | 16.0.1.0.0 |  | Allows to define a specific destination location on each PO line
@@ -101,7 +101,7 @@ addon | version | maintainers | summary
 [purchase_tag](purchase_tag/) | 16.0.1.1.0 |  | Allows to add multiple tags to purchase orders
 [purchase_tier_validation](purchase_tier_validation/) | 16.0.1.1.0 |  | Extends the functionality of Purchase Orders to support a tier validation process.
 [purchase_transport_mode](purchase_transport_mode/) | 16.0.1.1.0 |  | Purchase expection based on constraints
-[purchase_triple_discount](purchase_triple_discount/) | 16.0.2.0.0 |  | Manage triple discount on purchase order lines
+[purchase_triple_discount](purchase_triple_discount/) | 16.0.3.0.1 |  | Manage triple discount on purchase order lines
 [purchase_vendor_promotion](purchase_vendor_promotion/) | 16.0.1.0.1 |  | Purchase Vendor Promotion
 [purchase_warn_message](purchase_warn_message/) | 16.0.1.0.0 |  | Add a popup warning on purchase to ensure warning is populated
 [purchase_work_acceptance](purchase_work_acceptance/) | 16.0.1.0.0 | [![ps-tubtim](https://github.com/ps-tubtim.png?size=30px)](https://github.com/ps-tubtim) | Purchase Work Acceptance
