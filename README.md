@@ -22,8 +22,8 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [procurement_purchase_no_grouping](procurement_purchase_no_grouping/) | 18.0.1.0.0 |  | Procurement Purchase No Grouping
-[purchase_advance_payment](purchase_advance_payment/) | 18.0.1.0.0 | [![LoisRForgeFlow](https://github.com/LoisRForgeFlow.png?size=30px)](https://github.com/LoisRForgeFlow) | Allow to add advance payments on purchase orders
-[purchase_all_shipments](purchase_all_shipments/) | 18.0.1.0.0 |  | Purchase All Shipments
+[purchase_advance_payment](purchase_advance_payment/) | 18.0.1.0.1 | [![LoisRForgeFlow](https://github.com/LoisRForgeFlow.png?size=30px)](https://github.com/LoisRForgeFlow) | Allow to add advance payments on purchase orders
+[purchase_all_shipments](purchase_all_shipments/) | 18.0.1.0.1 |  | Purchase All Shipments
 [purchase_analytic_global](purchase_analytic_global/) | 18.0.1.0.0 |  | Purchase - Analytic Account Global
 [purchase_blanket_order](purchase_blanket_order/) | 18.0.1.0.0 |  | Purchase Blanket Orders
 [purchase_cancel_reason](purchase_cancel_reason/) | 18.0.1.0.0 |  | Purchase Cancel Reason
@@ -36,7 +36,7 @@ addon | version | maintainers | summary
 [purchase_invoice_plan](purchase_invoice_plan/) | 18.0.1.0.1 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Add to purchases order, ability to manage future invoice plan
 [purchase_last_price_info](purchase_last_price_info/) | 18.0.1.0.0 | [![LoisRForgeFlow](https://github.com/LoisRForgeFlow.png?size=30px)](https://github.com/LoisRForgeFlow) | Purchase Product Last Price Info
 [purchase_manual_delivery](purchase_manual_delivery/) | 18.0.1.0.0 |  | Prevents pickings to be auto generated upon Purchase Order confirmation and adds the ability to manually generate them as the supplier confirms the different purchase order lines.
-[purchase_open_qty](purchase_open_qty/) | 18.0.1.0.0 |  | Allows to identify the purchase orders that have quantities pending to invoice or to receive.
+[purchase_open_qty](purchase_open_qty/) | 18.0.1.0.1 |  | Allows to identify the purchase orders that have quantities pending to invoice or to receive.
 [purchase_order_archive](purchase_order_archive/) | 18.0.1.0.0 |  | Archive Purchase Orders
 [purchase_order_line_menu](purchase_order_line_menu/) | 18.0.1.0.0 |  | Adds Purchase Order Lines Menu
 [purchase_order_qty_change_no_recompute](purchase_order_qty_change_no_recompute/) | 18.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Prevent recompute if only quantity has changed in purchase order line
@@ -44,6 +44,7 @@ addon | version | maintainers | summary
 [purchase_order_supplierinfo_update](purchase_order_supplierinfo_update/) | 18.0.1.0.1 | [![ernestotejeda](https://github.com/ernestotejeda.png?size=30px)](https://github.com/ernestotejeda) | Update product supplierinfo with the last purchase price
 [purchase_order_type](purchase_order_type/) | 18.0.1.0.0 |  | Purchase Order Type
 [purchase_order_uninvoiced_amount](purchase_order_uninvoiced_amount/) | 18.0.1.0.0 |  | Purchase Order Univoiced Amount
+[purchase_partner_incoterm](purchase_partner_incoterm/) | 18.0.1.0.0 | [![TDu](https://github.com/TDu.png?size=30px)](https://github.com/TDu) [![bealdav](https://github.com/bealdav.png?size=30px)](https://github.com/bealdav) | Add a an incoterm field for supplier and use it on purchase order
 [purchase_partner_selectable_option](purchase_partner_selectable_option/) | 18.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Purchase Partner Selectable Option
 [purchase_request](purchase_request/) | 18.0.2.1.4 |  | Use this module to have notification of requirements of materials and/or external services and keep track of such requirements.
 [purchase_request_department](purchase_request_department/) | 18.0.1.0.0 |  | Purchase Request Department
