@@ -84,7 +84,7 @@ addon | version | maintainers | summary
 [purchase_order_uninvoiced_amount](purchase_order_uninvoiced_amount/) | 16.0.1.0.2 |  | Purchase Order Univoiced Amount
 [purchase_order_weight_volume](purchase_order_weight_volume/) | 16.0.2.2.0 | <a href='https://github.com/ilyasProgrammer'><img src='https://github.com/ilyasProgrammer.png' width='32' height='32' style='border-radius:50%;' alt='ilyasProgrammer'/></a> | Display purchase order weight and volume
 [purchase_packaging_default](purchase_packaging_default/) | 16.0.1.1.0 |  | Set default packaging in purchase
-[purchase_packaging_level_qty](purchase_packaging_level_qty/) | 16.0.1.0.0 |  | Display purchase order packaging level quantity
+[purchase_packaging_level_qty](purchase_packaging_level_qty/) | 16.0.2.0.0 |  | Display purchase order packaging level quantity
 [purchase_partner_incoterm](purchase_partner_incoterm/) | 16.0.1.0.0 | <a href='https://github.com/TDu'><img src='https://github.com/TDu.png' width='32' height='32' style='border-radius:50%;' alt='TDu'/></a> <a href='https://github.com/bealdav'><img src='https://github.com/bealdav.png' width='32' height='32' style='border-radius:50%;' alt='bealdav'/></a> | Add a an incoterm field for supplier and use it on purchase order
 [purchase_partner_selectable_option](purchase_partner_selectable_option/) | 16.0.1.0.3 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Purchase Partner Selectable Option
 [purchase_product_packaging_container_deposit](purchase_product_packaging_container_deposit/) | 16.0.1.1.0 |  | Purchase Product Packaging Container Deposit
