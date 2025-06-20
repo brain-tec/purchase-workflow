@@ -14,6 +14,7 @@ setuptools.setup(
         'odoo-addon-product_supplier_code_purchase>=16.0dev,<16.1dev',
         'odoo-addon-product_supplierinfo_purchase_contact>=16.0dev,<16.1dev',
         'odoo-addon-product_supplierinfo_qty_multiplier>=16.0dev,<16.1dev',
+        'odoo-addon-product_supplierinfo_security>=16.0dev,<16.1dev',
         'odoo-addon-product_supplierinfo_update_price>=16.0dev,<16.1dev',
         'odoo-addon-purchase_advance_payment>=16.0dev,<16.1dev',
         'odoo-addon-purchase_all_shipments>=16.0dev,<16.1dev',
