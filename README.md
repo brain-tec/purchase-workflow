@@ -52,7 +52,7 @@ addon | version | maintainers | summary
 [purchase_line_procurement_group](purchase_line_procurement_group/) | 16.0.1.0.0 |  | Group purchase order line according to procurement group
 [purchase_location_by_line](purchase_location_by_line/) | 16.0.1.0.0 |  | Allows to define a specific destination location on each PO line
 [purchase_lot](purchase_lot/) | 16.0.2.0.0 | <a href='https://github.com/florian-dacosta'><img src='https://github.com/florian-dacosta.png' width='32' height='32' style='border-radius:50%;' alt='florian-dacosta'/></a> | Purchase Lot
-[purchase_manual_delivery](purchase_manual_delivery/) | 16.0.2.0.2 |  | Prevents pickings to be auto generated upon Purchase Order confirmation and adds the ability to manually generate them as the supplier confirms the different purchase order lines.
+[purchase_manual_delivery](purchase_manual_delivery/) | 16.0.2.0.3 |  | Prevents pickings to be auto generated upon Purchase Order confirmation and adds the ability to manually generate them as the supplier confirms the different purchase order lines.
 [purchase_merge](purchase_merge/) | 16.0.1.0.3 |  | Wizard to merge purchase with required conditions
 [purchase_minimum_amount](purchase_minimum_amount/) | 16.0.1.0.0 |  | Purchase Minimum Amount
 [purchase_no_rfq](purchase_no_rfq/) | 16.0.1.0.0 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | Purchase Order - No Request For Quotation
