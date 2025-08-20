@@ -1,8 +1,10 @@
 [project]
 name = "odoo-addons-oca-purchase-workflow"
-version = "18.0.20250806.1"
+version = "18.0.20250819.4"
 dependencies = [
+    "odoo-addon-partner_supplierinfo_smartbutton==18.0.*",
     "odoo-addon-procurement_purchase_no_grouping==18.0.*",
+    "odoo-addon-product_supplier_code_purchase==18.0.*",
     "odoo-addon-product_supplierinfo_purchase_contact==18.0.*",
     "odoo-addon-purchase_advance_payment==18.0.*",
     "odoo-addon-purchase_all_shipments==18.0.*",
@@ -33,6 +35,7 @@ dependencies = [
     "odoo-addon-purchase_order_line_original_date==18.0.*",
     "odoo-addon-purchase_order_line_sequence==18.0.*",
     "odoo-addon-purchase_order_line_stock_available==18.0.*",
+    "odoo-addon-purchase_order_owner==18.0.*",
     "odoo-addon-purchase_order_qty_change_no_recompute==18.0.*",
     "odoo-addon-purchase_order_secondary_unit==18.0.*",
     "odoo-addon-purchase_order_supplierinfo_update==18.0.*",
@@ -55,12 +58,14 @@ dependencies = [
     "odoo-addon-purchase_requisition_line_description==18.0.*",
     "odoo-addon-purchase_sale_link_by_origin==18.0.*",
     "odoo-addon-purchase_security==18.0.*",
+    "odoo-addon-purchase_stock_manual_currency==18.0.*",
     "odoo-addon-purchase_stock_packaging==18.0.*",
     "odoo-addon-purchase_substate==18.0.*",
     "odoo-addon-purchase_tag==18.0.*",
     "odoo-addon-purchase_tier_validation==18.0.*",
     "odoo-addon-purchase_warn_message==18.0.*",
     "odoo-addon-purchase_work_acceptance==18.0.*",
+    "odoo-addon-purchase_work_acceptance_invoice_plan==18.0.*",
     "odoo-addon-sale_purchase_force_vendor==18.0.*",
     "odoo-addon-supplier_calendar==18.0.*",
     "odoo-addon-vendor_transport_lead_time==18.0.*",
