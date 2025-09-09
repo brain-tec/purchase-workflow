@@ -42,6 +42,7 @@ addon | version | maintainers | summary
 [purchase_fully_received](purchase_fully_received/) | 15.0.1.0.0 |  | Useful filters in Purchases to know the actual status of shipments.and invoices
 [purchase_invoice_method](purchase_invoice_method/) | 15.0.1.0.0 |  | Allow to force the invoice method of a purchase
 [purchase_invoice_plan](purchase_invoice_plan/) | 15.0.1.0.2 | <a href='https://github.com/kittiu'><img src='https://github.com/kittiu.png' width='32' height='32' style='border-radius:50%;' alt='kittiu'/></a> | Add to purchases order, ability to manage future invoice plan
+[purchase_invoice_status_line](purchase_invoice_status_line/) | 15.0.1.0.0 | <a href='https://github.com/JoanSForgeFlow'><img src='https://github.com/JoanSForgeFlow.png' width='32' height='32' style='border-radius:50%;' alt='JoanSForgeFlow'/></a> | Add invoice status on purchase order lines
 [purchase_last_price_info](purchase_last_price_info/) | 15.0.2.0.2 | <a href='https://github.com/LoisRForgeFlow'><img src='https://github.com/LoisRForgeFlow.png' width='32' height='32' style='border-radius:50%;' alt='LoisRForgeFlow'/></a> | Purchase Product Last Price Info
 [purchase_line_reassign](purchase_line_reassign/) | 15.0.1.0.0 |  | Purchase Line Reassign
 [purchase_location_by_line](purchase_location_by_line/) | 15.0.1.0.0 |  | Allows to define a specific destination location on each PO line
@@ -76,6 +77,7 @@ addon | version | maintainers | summary
 [purchase_order_type](purchase_order_type/) | 15.0.1.0.2 |  | Purchase Order Type
 [purchase_order_type_dashboard](purchase_order_type_dashboard/) | 15.0.1.0.0 | <a href='https://github.com/dalonsod'><img src='https://github.com/dalonsod.png' width='32' height='32' style='border-radius:50%;' alt='dalonsod'/></a> | Purchase Order Type Dashboard
 [purchase_order_uninvoiced_amount](purchase_order_uninvoiced_amount/) | 15.0.1.0.1 |  | Purchase Order Univoiced Amount
+[purchase_order_uninvoiced_amount_line](purchase_order_uninvoiced_amount_line/) | 15.0.1.0.0 |  | Purchase Order Line Uninvoiced Amount
 [purchase_order_weight_volume](purchase_order_weight_volume/) | 15.0.1.0.1 | <a href='https://github.com/ilyasProgrammer'><img src='https://github.com/ilyasProgrammer.png' width='32' height='32' style='border-radius:50%;' alt='ilyasProgrammer'/></a> | Display purchase order weight and volume
 [purchase_partner_incoterm](purchase_partner_incoterm/) | 15.0.3.0.0 | <a href='https://github.com/TDu'><img src='https://github.com/TDu.png' width='32' height='32' style='border-radius:50%;' alt='TDu'/></a> <a href='https://github.com/bealdav'><img src='https://github.com/bealdav.png' width='32' height='32' style='border-radius:50%;' alt='bealdav'/></a> | Add a an incoterm field for supplier and use it on purchase order
 [purchase_partner_selectable_option](purchase_partner_selectable_option/) | 15.0.1.0.2 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Purchase Partner Selectable Option
