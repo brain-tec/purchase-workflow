@@ -72,6 +72,7 @@ setuptools.setup(
         'odoo-addon-purchase_order_type>=16.0dev,<16.1dev',
         'odoo-addon-purchase_order_type_dashboard>=16.0dev,<16.1dev',
         'odoo-addon-purchase_order_uninvoiced_amount>=16.0dev,<16.1dev',
+        'odoo-addon-purchase_order_uninvoiced_amount_line>=16.0dev,<16.1dev',
         'odoo-addon-purchase_order_weight_volume>=16.0dev,<16.1dev',
         'odoo-addon-purchase_packaging_default>=16.0dev,<16.1dev',
         'odoo-addon-purchase_packaging_level_qty>=16.0dev,<16.1dev',
