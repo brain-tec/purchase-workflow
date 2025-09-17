@@ -42,6 +42,7 @@ addon | version | maintainers | summary
 [purchase_force_invoiced_quantity](purchase_force_invoiced_quantity/) | 18.0.1.1.1 |  | Add manual invoice quantity in purchase order lines
 [purchase_invoice_method](purchase_invoice_method/) | 18.0.1.0.0 |  | Allow to force the invoice method of a purchase
 [purchase_invoice_plan](purchase_invoice_plan/) | 18.0.1.0.2 | <a href='https://github.com/kittiu'><img src='https://github.com/kittiu.png' width='32' height='32' style='border-radius:50%;' alt='kittiu'/></a> | Add to purchases order, ability to manage future invoice plan
+[purchase_invoice_status_line](purchase_invoice_status_line/) | 18.0.1.0.0 | <a href='https://github.com/JoanSForgeFlow'><img src='https://github.com/JoanSForgeFlow.png' width='32' height='32' style='border-radius:50%;' alt='JoanSForgeFlow'/></a> | Add invoice status on purchase order lines
 [purchase_last_price_info](purchase_last_price_info/) | 18.0.1.0.0 | <a href='https://github.com/LoisRForgeFlow'><img src='https://github.com/LoisRForgeFlow.png' width='32' height='32' style='border-radius:50%;' alt='LoisRForgeFlow'/></a> | Purchase Product Last Price Info
 [purchase_location_by_line](purchase_location_by_line/) | 18.0.1.0.0 |  | Allows to define a specific destination location on each PO line
 [purchase_lot](purchase_lot/) | 18.0.1.0.1 | <a href='https://github.com/florian-dacosta'><img src='https://github.com/florian-dacosta.png' width='32' height='32' style='border-radius:50%;' alt='florian-dacosta'/></a> | Purchase Lot
@@ -68,6 +69,8 @@ addon | version | maintainers | summary
 [purchase_partner_selectable_option](purchase_partner_selectable_option/) | 18.0.1.0.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Purchase Partner Selectable Option
 [purchase_receipt_expectation](purchase_receipt_expectation/) | 18.0.1.0.0 |  | Purchase Receipt Expectation
 [purchase_reception_notify](purchase_reception_notify/) | 18.0.1.0.1 |  | Purchase Reception Notify
+[purchase_reception_status](purchase_reception_status/) | 18.0.1.0.0 | <a href='https://github.com/alexis-via'><img src='https://github.com/alexis-via.png' width='32' height='32' style='border-radius:50%;' alt='alexis-via'/></a> | Add reception status on purchase orders (OCA logic)
+[purchase_reception_status_line](purchase_reception_status_line/) | 18.0.1.1.0 | <a href='https://github.com/DavidJForgeFlow'><img src='https://github.com/DavidJForgeFlow.png' width='32' height='32' style='border-radius:50%;' alt='DavidJForgeFlow'/></a> | Add reception status on purchase order lines
 [purchase_representative](purchase_representative/) | 18.0.1.0.0 |  | Purchase Representatives will be the point of contact for RFQ's and PO's
 [purchase_request](purchase_request/) | 18.0.2.3.1 |  | Use this module to have notification of requirements of materials and/or external services and keep track of such requirements.
 [purchase_request_cancel_confirm](purchase_request_cancel_confirm/) | 18.0.1.0.0 | <a href='https://github.com/kittiu'><img src='https://github.com/kittiu.png' width='32' height='32' style='border-radius:50%;' alt='kittiu'/></a> | Purchase Request Cancel Confirm
@@ -82,9 +85,11 @@ addon | version | maintainers | summary
 [purchase_security](purchase_security/) | 18.0.1.1.0 | <a href='https://github.com/pilarvargas-tecnativa'><img src='https://github.com/pilarvargas-tecnativa.png' width='32' height='32' style='border-radius:50%;' alt='pilarvargas-tecnativa'/></a> | See only your purchase orders
 [purchase_stock_manual_currency](purchase_stock_manual_currency/) | 18.0.1.0.0 |  | Extends manual currency from purchase to stock moves
 [purchase_stock_packaging](purchase_stock_packaging/) | 18.0.1.0.0 | <a href='https://github.com/rousseldenis'><img src='https://github.com/rousseldenis.png' width='32' height='32' style='border-radius:50%;' alt='rousseldenis'/></a> | Allows to transmit the product packaging from the procurement values to the generated purchase order line
+[purchase_stock_reception_status](purchase_stock_reception_status/) | 18.0.1.0.0 |  | Glue module to integrate OCA reception status with purchase_stock
 [purchase_substate](purchase_substate/) | 18.0.1.0.0 |  | Purchase Sub State
 [purchase_tag](purchase_tag/) | 18.0.1.0.0 |  | Allows to add multiple tags to purchase orders
 [purchase_tier_validation](purchase_tier_validation/) | 18.0.1.0.0 |  | Extends the functionality of Purchase Orders to support a tier validation process.
+[purchase_uninvoiced_amount_force_invoiced_line](purchase_uninvoiced_amount_force_invoiced_line/) | 18.0.1.0.0 | <a href='https://github.com/JoanSForgeFlow'><img src='https://github.com/JoanSForgeFlow.png' width='32' height='32' style='border-radius:50%;' alt='JoanSForgeFlow'/></a> | Glue module between uninvoiced amount line and force invoiced line
 [purchase_warn_message](purchase_warn_message/) | 18.0.1.0.0 |  | Add a popup warning on purchase to ensure warning is populated
 [purchase_work_acceptance](purchase_work_acceptance/) | 18.0.1.0.0 | <a href='https://github.com/ps-tubtim'><img src='https://github.com/ps-tubtim.png' width='32' height='32' style='border-radius:50%;' alt='ps-tubtim'/></a> | Purchase Work Acceptance
 [purchase_work_acceptance_invoice_plan](purchase_work_acceptance_invoice_plan/) | 18.0.1.0.0 | <a href='https://github.com/kittiu'><img src='https://github.com/kittiu.png' width='32' height='32' style='border-radius:50%;' alt='kittiu'/></a> <a href='https://github.com/Saran440'><img src='https://github.com/Saran440.png' width='32' height='32' style='border-radius:50%;' alt='Saran440'/></a> | Purchase Work Acceptance Invoice Plan
