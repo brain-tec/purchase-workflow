@@ -36,6 +36,7 @@ setuptools.setup(
         'odoo-addon-purchase_invoice_method>=16.0dev,<16.1dev',
         'odoo-addon-purchase_invoice_new_picking_line>=16.0dev,<16.1dev',
         'odoo-addon-purchase_invoice_plan>=16.0dev,<16.1dev',
+        'odoo-addon-purchase_invoice_status_line>=16.0dev,<16.1dev',
         'odoo-addon-purchase_landed_cost>=16.0dev,<16.1dev',
         'odoo-addon-purchase_last_price_info>=16.0dev,<16.1dev',
         'odoo-addon-purchase_line_procurement_group>=16.0dev,<16.1dev',
