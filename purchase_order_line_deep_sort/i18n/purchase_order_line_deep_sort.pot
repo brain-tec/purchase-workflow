@@ -44,6 +44,12 @@ msgid "By product reference"
 msgstr ""
 
 #. module: purchase_order_line_deep_sort
+#: model:ir.model.fields.selection,name:purchase_order_line_deep_sort.selection__purchase_order__line_order__product_qty
+#: model:ir.model.fields.selection,name:purchase_order_line_deep_sort.selection__res_company__default_po_line_order__product_qty
+msgid "By quantity"
+msgstr ""
+
+#. module: purchase_order_line_deep_sort
 #: model:ir.model.fields.selection,name:purchase_order_line_deep_sort.selection__purchase_order__line_order__price_unit
 #: model:ir.model.fields.selection,name:purchase_order_line_deep_sort.selection__res_company__default_po_line_order__price_unit
 msgid "By unit price"
@@ -52,11 +58,6 @@ msgstr ""
 #. module: purchase_order_line_deep_sort
 #: model:ir.model,name:purchase_order_line_deep_sort.model_res_company
 msgid "Companies"
-msgstr ""
-
-#. module: purchase_order_line_deep_sort
-#: model:ir.model,name:purchase_order_line_deep_sort.model_res_config_settings
-msgid "Config Settings"
 msgstr ""
 
 #. module: purchase_order_line_deep_sort
@@ -70,11 +71,19 @@ msgid "Default sort criteria for purchase order lines"
 msgstr ""
 
 #. module: purchase_order_line_deep_sort
+#: model:ir.model.fields.selection,name:purchase_order_line_deep_sort.selection__purchase_order__line_direction__desc
+#: model:ir.model.fields.selection,name:purchase_order_line_deep_sort.selection__res_company__default_po_line_direction__desc
+msgid "Descending"
+msgstr ""
+
+#. module: purchase_order_line_deep_sort
 #: model_terms:ir.ui.view,arch_db:purchase_order_line_deep_sort.res_config_settings_view_form
 msgid "Direction"
 msgstr ""
 
 #. module: purchase_order_line_deep_sort
+#: model:ir.model.fields,field_description:purchase_order_line_deep_sort.field_res_company__default_po_line_order
+#: model:ir.model.fields,field_description:purchase_order_line_deep_sort.field_res_config_settings__po_line_order_default
 #: model_terms:ir.ui.view,arch_db:purchase_order_line_deep_sort.res_config_settings_view_form
 msgid "Line Order"
 msgstr ""
@@ -82,6 +91,11 @@ msgstr ""
 #. module: purchase_order_line_deep_sort
 #: model_terms:ir.ui.view,arch_db:purchase_order_line_deep_sort.purchase_order_form
 msgid "Other Info"
+msgstr ""
+
+#. module: purchase_order_line_deep_sort
+#: model:ir.model,name:purchase_order_line_deep_sort.model_res_config_settings
+msgid "Procurement purchase grouping settings"
 msgstr ""
 
 #. module: purchase_order_line_deep_sort
@@ -97,4 +111,28 @@ msgstr ""
 #. module: purchase_order_line_deep_sort
 #: model_terms:ir.ui.view,arch_db:purchase_order_line_deep_sort.res_config_settings_view_form
 msgid "Select a default sort criteria for purchase order lines."
+msgstr ""
+
+#. module: purchase_order_line_deep_sort
+#: model:ir.model.fields,help:purchase_order_line_deep_sort.field_res_company__default_po_line_order
+#: model:ir.model.fields,help:purchase_order_line_deep_sort.field_res_config_settings__po_line_order_default
+msgid "Select a sorting criteria for purchase order lines."
+msgstr ""
+
+#. module: purchase_order_line_deep_sort
+#: model:ir.model.fields,help:purchase_order_line_deep_sort.field_res_company__default_po_line_direction
+#: model:ir.model.fields,help:purchase_order_line_deep_sort.field_res_config_settings__po_line_direction_default
+msgid "Select a sorting direction for purchase order lines."
+msgstr ""
+
+#. module: purchase_order_line_deep_sort
+#: model:ir.model.fields,field_description:purchase_order_line_deep_sort.field_purchase_order__line_direction
+#: model:ir.model.fields,field_description:purchase_order_line_deep_sort.field_res_company__default_po_line_direction
+#: model:ir.model.fields,field_description:purchase_order_line_deep_sort.field_res_config_settings__po_line_direction_default
+msgid "Sort Direction"
+msgstr ""
+
+#. module: purchase_order_line_deep_sort
+#: model:ir.model.fields,field_description:purchase_order_line_deep_sort.field_purchase_order__line_order
+msgid "Sort Lines By"
 msgstr ""
