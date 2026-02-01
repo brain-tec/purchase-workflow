@@ -97,6 +97,7 @@ setuptools.setup(
         'odoo-addon-purchase_security>=16.0dev,<16.1dev',
         'odoo-addon-purchase_sign>=16.0dev,<16.1dev',
         'odoo-addon-purchase_split_by_route>=16.0dev,<16.1dev',
+        'odoo-addon-purchase_stock_cost_update>=16.0dev,<16.1dev',
         'odoo-addon-purchase_stock_packaging>=16.0dev,<16.1dev',
         'odoo-addon-purchase_stock_picking_actual_date_show_currency_rate>=16.0dev,<16.1dev',
         'odoo-addon-purchase_stock_picking_show_currency_rate>=16.0dev,<16.1dev',
