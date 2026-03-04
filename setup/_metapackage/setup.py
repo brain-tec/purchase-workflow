@@ -20,6 +20,7 @@ setuptools.setup(
         'odoo-addon-purchase_advance_payment>=16.0dev,<16.1dev',
         'odoo-addon-purchase_all_shipments>=16.0dev,<16.1dev',
         'odoo-addon-purchase_allowed_product>=16.0dev,<16.1dev',
+        'odoo-addon-purchase_analytic_global>=16.0dev,<16.1dev',
         'odoo-addon-purchase_blanket_order>=16.0dev,<16.1dev',
         'odoo-addon-purchase_cancel_reason>=16.0dev,<16.1dev',
         'odoo-addon-purchase_commercial_partner>=16.0dev,<16.1dev',
