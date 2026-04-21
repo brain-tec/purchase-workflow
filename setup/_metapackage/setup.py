@@ -83,6 +83,7 @@ setuptools.setup(
         'odoo-addon-purchase_packaging_level_qty>=16.0dev,<16.1dev',
         'odoo-addon-purchase_partner_incoterm>=16.0dev,<16.1dev',
         'odoo-addon-purchase_partner_selectable_option>=16.0dev,<16.1dev',
+        'odoo-addon-purchase_planned_date_container_deposit>=16.0dev,<16.1dev',
         'odoo-addon-purchase_product_packaging_container_deposit>=16.0dev,<16.1dev',
         'odoo-addon-purchase_quick>=16.0dev,<16.1dev',
         'odoo-addon-purchase_reception_status>=16.0dev,<16.1dev',
