@@ -104,6 +104,7 @@ setuptools.setup(
         'odoo-addon-purchase_stock_picking_actual_date_show_currency_rate>=16.0dev,<16.1dev',
         'odoo-addon-purchase_stock_picking_show_currency_rate>=16.0dev,<16.1dev',
         'odoo-addon-purchase_stock_price_unit_sync>=16.0dev,<16.1dev',
+        'odoo-addon-purchase_stock_tier_validation>=16.0dev,<16.1dev',
         'odoo-addon-purchase_supplierinfo_editable_tree>=16.0dev,<16.1dev',
         'odoo-addon-purchase_tag>=16.0dev,<16.1dev',
         'odoo-addon-purchase_tier_validation>=16.0dev,<16.1dev',
