@@ -73,11 +73,12 @@ addon | version | maintainers | summary
 [purchase_order_price_recalculation](purchase_order_price_recalculation/) | 18.0.1.0.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Price recalculation in purchases orders
 [purchase_order_product_recommendation](purchase_order_product_recommendation/) | 18.0.1.1.0 |  | Recommend products to buy to supplier based on history
 [purchase_order_product_recommendation_brand](purchase_order_product_recommendation_brand/) | 18.0.1.0.0 |  | Allow to filter recommendations by brand
+[purchase_order_product_recommendation_secondary_unit](purchase_order_product_recommendation_secondary_unit/) | 18.0.1.0.0 |  | Add secondary unit to recommend products wizard
 [purchase_order_product_recommendation_xlsx](purchase_order_product_recommendation_xlsx/) | 18.0.1.0.0 |  | Add a way to print recommended products for supplier
 [purchase_order_qty_change_no_recompute](purchase_order_qty_change_no_recompute/) | 18.0.1.0.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Prevent recompute if only quantity has changed in purchase order line
 [purchase_order_secondary_unit](purchase_order_secondary_unit/) | 18.0.1.2.2 |  | Purchase product in a secondary unit
 [purchase_order_supplier_return](purchase_order_supplier_return/) | 18.0.1.0.0 |  | Return product to supplier and update quantiy received
-[purchase_order_supplierinfo_update](purchase_order_supplierinfo_update/) | 18.0.1.0.1 | <a href='https://github.com/ernestotejeda'><img src='https://github.com/ernestotejeda.png' width='32' height='32' style='border-radius:50%;' alt='ernestotejeda'/></a> | Update product supplierinfo with the last purchase price
+[purchase_order_supplierinfo_update](purchase_order_supplierinfo_update/) | 18.0.2.0.0 | <a href='https://github.com/ernestotejeda'><img src='https://github.com/ernestotejeda.png' width='32' height='32' style='border-radius:50%;' alt='ernestotejeda'/></a> | Update product supplierinfo with the last purchase price
 [purchase_order_type](purchase_order_type/) | 18.0.1.1.2 |  | Purchase Order Type
 [purchase_order_type_dashboard](purchase_order_type_dashboard/) | 18.0.1.0.0 | <a href='https://github.com/dalonsod'><img src='https://github.com/dalonsod.png' width='32' height='32' style='border-radius:50%;' alt='dalonsod'/></a> | Purchase Order Type Dashboard
 [purchase_order_uninvoiced_amount](purchase_order_uninvoiced_amount/) | 18.0.1.0.0 |  | Purchase Order Univoiced Amount
