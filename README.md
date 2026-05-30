@@ -58,6 +58,7 @@ addon | version | maintainers | summary
 [purchase_no_rfq](purchase_no_rfq/) | 18.0.1.0.1 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | Purchase Order - No Request For Quotation
 [purchase_open_qty](purchase_open_qty/) | 18.0.1.0.1 |  | Allows to identify the purchase orders that have quantities pending to invoice or to receive.
 [purchase_order_approval_block](purchase_order_approval_block/) | 18.0.1.0.0 |  | Purchase Order Approval Block
+[purchase_order_approved](purchase_order_approved/) | 18.0.1.0.0 |  | Add a new state 'Approved' in purchase orders.
 [purchase_order_archive](purchase_order_archive/) | 18.0.1.0.0 |  | Archive Purchase Orders
 [purchase_order_date_approve_editable](purchase_order_date_approve_editable/) | 18.0.1.0.0 |  | Allows editing the Approval Date on Purchase Orders
 [purchase_order_etd_eta](purchase_order_etd_eta/) | 18.0.1.0.0 | <a href='https://github.com/yostashiro'><img src='https://github.com/yostashiro.png' width='32' height='32' style='border-radius:50%;' alt='yostashiro'/></a> <a href='https://github.com/aungkokolin1997'><img src='https://github.com/aungkokolin1997.png' width='32' height='32' style='border-radius:50%;' alt='aungkokolin1997'/></a> | Add Estimated Time of Departure/Arrival fields to Purchase Orders
@@ -67,7 +68,7 @@ addon | version | maintainers | summary
 [purchase_order_line_menu](purchase_order_line_menu/) | 18.0.1.0.2 |  | Adds Purchase Order Lines Menu
 [purchase_order_line_note](purchase_order_line_note/) | 18.0.1.0.0 | <a href='https://github.com/Kev-Roche'><img src='https://github.com/Kev-Roche.png' width='32' height='32' style='border-radius:50%;' alt='Kev-Roche'/></a> | Note on purchase order line
 [purchase_order_line_original_date](purchase_order_line_original_date/) | 18.0.1.0.0 | <a href='https://github.com/LoisRForgeFlow'><img src='https://github.com/LoisRForgeFlow.png' width='32' height='32' style='border-radius:50%;' alt='LoisRForgeFlow'/></a> | adds the Original Expected Arrival to PO lines.
-[purchase_order_line_sequence](purchase_order_line_sequence/) | 18.0.1.0.0 |  | Adds sequence to PO lines and propagates it toInvoice lines and Stock Moves
+[purchase_order_line_sequence](purchase_order_line_sequence/) | 18.0.1.0.1 |  | Adds sequence to PO lines and propagates it toInvoice lines and Stock Moves
 [purchase_order_line_stock_available](purchase_order_line_stock_available/) | 18.0.1.0.0 |  | Purchase order line stock available
 [purchase_order_owner](purchase_order_owner/) | 18.0.1.0.0 |  | Purchase Order Owner
 [purchase_order_price_recalculation](purchase_order_price_recalculation/) | 18.0.1.0.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Price recalculation in purchases orders
