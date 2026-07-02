@@ -1,6 +1,6 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-# 	* purchase_stock_date_done_revaluation
+# 	* purchase_uom_discrete
 #
 msgid ""
 msgstr ""
@@ -16,17 +16,17 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.15.2\n"
 
-#. module: purchase_stock_date_done_revaluation
-#: model:ir.model.fields,field_description:purchase_stock_date_done_revaluation.field_stock_move__display_name
+#. module: purchase_uom_discrete
+#: model:ir.model.fields,field_description:purchase_uom_discrete.field_purchase_order_line__display_name
 msgid "Display Name"
 msgstr "Nome visualizzato"
 
-#. module: purchase_stock_date_done_revaluation
-#: model:ir.model.fields,field_description:purchase_stock_date_done_revaluation.field_stock_move__id
+#. module: purchase_uom_discrete
+#: model:ir.model.fields,field_description:purchase_uom_discrete.field_purchase_order_line__id
 msgid "ID"
 msgstr "ID"
 
-#. module: purchase_stock_date_done_revaluation
-#: model:ir.model,name:purchase_stock_date_done_revaluation.model_stock_move
-msgid "Stock Move"
-msgstr "Movimento di magazzino"
+#. module: purchase_uom_discrete
+#: model:ir.model,name:purchase_uom_discrete.model_purchase_order_line
+msgid "Purchase Order Line"
+msgstr "Riga ordine di acquisto"
