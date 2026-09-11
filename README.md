@@ -35,12 +35,13 @@ addon | version | maintainers | summary
 [purchase_allowed_product](purchase_allowed_product/) | 18.0.1.0.1 |  | This module allows to select only products that can be supplied by the vendor
 [purchase_analytic_global](purchase_analytic_global/) | 18.0.1.0.0 |  | Purchase - Analytic Account Global
 [purchase_blanket_order](purchase_blanket_order/) | 18.0.1.0.2 |  | Purchase Blanket Orders
+[purchase_cancel_confirm](purchase_cancel_confirm/) | 18.0.1.0.0 | <a href='https://github.com/kittiu'><img src='https://github.com/kittiu.png' width='32' height='32' style='border-radius:50%;' alt='kittiu'/></a> | Purchase Cancel Confirm
 [purchase_cancel_reason](purchase_cancel_reason/) | 18.0.1.0.0 |  | Purchase Cancel Reason
 [purchase_commercial_partner](purchase_commercial_partner/) | 18.0.1.0.0 | <a href='https://github.com/alexis-via'><img src='https://github.com/alexis-via.png' width='32' height='32' style='border-radius:50%;' alt='alexis-via'/></a> | Add stored related field 'Commercial Supplier' on POs
 [purchase_container](purchase_container/) | 18.0.1.1.0 | <a href='https://github.com/nayatec'><img src='https://github.com/nayatec.png' width='32' height='32' style='border-radius:50%;' alt='nayatec'/></a> | Add containers to purchase orders and stock pickings.
 [purchase_default_terms_conditions](purchase_default_terms_conditions/) | 18.0.1.0.0 |  | This module allows purchase default terms & conditions
 [purchase_delivery_split_date](purchase_delivery_split_date/) | 18.0.2.0.3 |  | Allows Purchase Order you confirm to generate one Incoming Shipment for each expected date indicated in the Purchase Order Lines
-[purchase_deposit](purchase_deposit/) | 18.0.1.1.0 |  | Option to create deposit from purchase order
+[purchase_deposit](purchase_deposit/) | 18.0.1.1.1 |  | Option to create deposit from purchase order
 [purchase_exception](purchase_exception/) | 18.0.1.1.0 |  | Custom exceptions on purchase order
 [purchase_fop_shipping](purchase_fop_shipping/) | 18.0.1.0.1 |  | Purchase Free-Of-Payment shipping
 [purchase_force_invoiced](purchase_force_invoiced/) | 18.0.1.0.3 |  | Allows to force the billing status of the purchase order to "Invoiced"
